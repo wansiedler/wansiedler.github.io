@@ -9,5 +9,10 @@ _site
 Gemfile.lock
 assets/libs/
 node_modules/
+**/node_modules/
 vendor
 .idea
+pnpm-lock.yaml
+**/pnpm-lock.yaml
+.env
+**/.env

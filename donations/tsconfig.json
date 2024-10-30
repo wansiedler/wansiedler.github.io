@@ -1,0 +1,14 @@
+{
+  "compilerOptions": {
+    "target": "es2021",
+    "module": "commonjs",
+    "esModuleInterop": true,
+    "forceConsistentCasingInFileNames": true,
+    "strict": true,
+    "skipLibCheck": true,
+    "resolveJsonModule": true,
+    "typeRoots": ["./node_modules/@types", "./node_modules/@nomicfoundation"]
+  },
+  "include": ["scripts", "test", "hardhat", "typechain-types"],
+  "files": ["./hardhat.config.ts"]
+}

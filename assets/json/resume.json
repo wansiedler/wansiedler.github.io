@@ -1,200 +1,237 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
-    "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "name": "Alexander Paul Wansiedler",
+    "label": "Senior Full Stack/Web3/DevOps Software Engineer",
+    "summary": "Accomplished and results-driven Senior Web3/Full-Stack Engineer with over 20 years of experience in software engineering, DevOps, and system architecture across industries, including web3, digital media, finance, and IoT. Skilled in designing and implementing robust architectures and scalable CI/CD pipelines, with a strong agile focus on big data, zero-party data collection, user-friendly frontends, and high-performance backends.\nExperienced mentor in TypeScript, Python, and Rust, architecture, SOLID, and agile principles.",
+    "telegram": "wansiedler",
+    "email": "alexander@wansiedler.com",
+    "phone": " ",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
+      "city": "Munich",
+      "countryCode": "DE",
+      "region": "Bavaria"
     },
     "profiles": [
       {
+        "network": "LinkedIn",
+        "username": "wansiedler",
+        "url": "https://linkedin.com/in/wansiedler"
+      },
+      {
         "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
+        "username": "0xWansiedler",
+        "url": "https://twitter.com/0xWansiedler"
+      },
+      {
+        "network": "Telegram",
+        "username": "wansiedler",
+        "url": "https://t.me/wansiedler"
+      },
+      {
+        "network": "Youtube",
+        "username": "wansiedler",
+        "url": "https://www.youtube.com/@wansiedler"
       }
     ]
   },
+  "skills": [
+    {
+      "name": "Frontend Development",
+      "icon": "fa-solid fa-hashtag",
+      "keywords": [
+        "FSD/Module Federation with TDD",
+        "TypeScript in React (TanStack Query/SWR, Chakra UI, Material-UI, shadcn)",
+        "Angular",
+        "Vue.js (Pinia, Vue-query, Quasar/Nuxt.js)",
+        "Webpack/Vite/Rollup/bun",
+        "WebAssembly"
+      ]
+    },
+    {
+      "name": "Node",
+      "icon": "fa-solid fa-hashtag",
+      "keywords": ["Microservices in TypeScript/Node.js/Next.js/Express/Fastify", "RESTful APIs/WebSockets"]
+    },
+    {
+      "name": "Python",
+      "icon": "fa-solid fa-hashtag",
+      "keywords": ["FastAPI", "Django", "Flask"]
+    },
+    {
+      "name": "Golang",
+      "icon": "fa-solid fa-hashtag",
+      "keywords": ["Gin"]
+    },
+
+    {
+      "name": "Rust/Solidity for Blockchain",
+      "keywords": [
+        "Solana",
+        "Mucho",
+        "Anchor",
+        "Fuzz",
+        "Zest",
+        "ethereum",
+        "OpenZeppelin (Solidity, Vyper)",
+        "Foundry",
+        "Truffle",
+        "Hardhat",
+        "Arbitrum (Stylus)",
+        "Reth for Optimism/Polygon/Binance Smart Chain/StarkNet",
+        "Aptos (Move SDK)",
+        "SUI",
+        "Fantom",
+        "Flow",
+        "Near",
+        "Polkadot",
+        "TON (Telegram Open Network)"
+      ]
+    },
+    {
+      "name": "DevOps & Infrastructure",
+      "keywords": [
+        "Docker",
+        "Kubernetes",
+        "GitLab CI/CD/GitHub Actions",
+        "Terraform",
+        "Ansible",
+        "Prometheus",
+        "Grafana",
+        "ELK Stack",
+        "AWS(Lambda, RDS, ECS)/Google Cloud/Azure",
+        "Heroku/Netlify/Vercel",
+        "Cloudflare",
+        "Nginx/Apache"
+      ]
+    },
+    {
+      "name": "Databases/MB&DS",
+      "keywords": ["PostgreSQL/MySQL/MariaDB", "ElasticSearch/MongoDB/ClickHouse", "GraphQL", "Redis/Apache Kafka/RabbitMQ", "Firebase", "S3"]
+    }
+  ],
   "work": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity"]
-    }
-  ],
-  "volunteer": [
+      "name": "Navflex",
+      "position": "Senior Full-Stack / DevOps",
+      "url": "https://www.navflex.com/",
+      "startDate": "2025-04-01",
+      "summary": "",
+      "highlights": []
+    },
     {
-      "organization": "People's Climate March",
-      "location": "Zurich, Switzerland",
-      "position": "Lead Organizer",
-      "url": "https://example.com",
-      "startDate": "2014-04-01",
-      "endDate": "2015-07-01",
-      "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
-      "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
-    }
-  ],
-  "education": [
+      "name": "Ippen Digital Media GmbH",
+      "position": "Senior Full Stack Software Engineer / DevOps",
+      "url": "https://www.ippen-digital.de/unternehmen/",
+      "startDate": "2021-02-01",
+      "endDate": "2025-03-31",
+      "summary": "Lead development for zero-party data collection and big data applications, building scalable microservices, enhancing data pipelines, and integrating frontend frameworks.",
+      "highlights": [
+        "Architected and implemented a scalable elastic microservices-based backend and frontend system for the zero-party data collection platform from scratch, leveraging Node.js with transitioning from Express/Sequelize to Fastify/Prisma, transitioning Django to FastAPI/SQLAlchemy, and Rust/Warp.",
+        "Utilized ElasticSearch, S3, Apache Kafka, PostgreSQL, and Redis for optimized backend solutions.",
+        "Designed and managed Kubernetes clusters on AWS ensuring high availability, security, and scalability.",
+        "Developed CI/CD pipelines with GitLab CI/CD, Docker, and Kubernetes, automating application deployments optimized for agile workflow.",
+        "Monitored systems with Prometheus and Grafana.",
+        "Integrated ArgoCD/FluxCD to streamline GitOps workflows, ensuring seamless application lifecycle management within Kanban.",
+        "Built and optimized frontend applications using TypeScript with React, React Query, Next.js, Material UI, and Chakra UI.",
+        "Integrated Preact/Vite, Solid.js, TDD (Jest, Loki, Cypress, Playwright), and Redux with sagas for state management. Angular/Universal with RxJS "
+      ]
+    },
     {
-      "institution": "University of Zurich, Zurich, Switzerland",
-      "location": "Zurich, Switzerland",
-      "url": "https://www.uzh.ch/",
-      "area": "Software Development",
-      "studyType": "PhD",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
-      "score": "10",
-      "courses": ["Theory of Relativity"]
-    }
-  ],
-  "awards": [
+      "name": "Lexx Software Co. Ltd.",
+      "position": "Senior Full Stack Software Engineer / DevOps",
+      "url": "https://lexx-trade.com/",
+      "startDate": "2018-11-01",
+      "endDate": "2021-02-01",
+      "summary": "Developed and managed a high-concurrency crypto-trading platform supporting thousands of assets.",
+      "highlights": [
+        "Architected a trading terminal managing thousands of cryptocurrency assets, ensuring high concurrency and resilience.",
+        "Managed cloud infrastructure using Docker Swarm and Kubernetes, ensuring robust deployments.",
+        "Automated workflows using Python and Bash, aligned with GitOps principles.",
+        "Designed backend architecture using Golang, Node.js, PostgreSQL, and Redis within Docker/Docker Swarm environments.",
+        "Developed sophisticated Telegram Bot APIs.",
+        "Led frontend team with TypeScript and Angular (NgRx), transitioning to Vue.js/Nuxt.js and Vuex to Pinia for state management."
+      ]
+    },
     {
-      "title": "Nobel Prize in Physics",
-      "date": "1921-11-01",
-      "awarder": "Royal Swedish Academy of Sciences",
-      "url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/",
-      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
+      "name": "esave AG",
+      "position": "CTO",
+      "url": "https://www.esaveag.com/",
+      "startDate": "2016-10-01",
+      "endDate": "2018-10-01",
+      "summary": "Led the integration of Swiss IoT street lighting systems, managing cross-functional teams and technical documentation.",
+      "highlights": [
+        "Oversaw hardware/software integration and deployment processes",
+        "Managed server infrastructure and developed backend systems for IoT street lighting systems",
+        "Coordinated cross-functional teams and produced technical documentation",
+        "As the CTO of eSave AG, I drive the company’s technological vision, ensuring the development of cutting-edge, scalable, and efficient solutions that empower businesses to optimize energy management and sustainability efforts. With over 20 years of experience in software engineering, system architecture, and DevOps, I specialize in designing and implementing high-performance systems that handle large-scale data processing, automation, and IoT integration.\n\nMy career has spanned leadership roles across multiple industries, including digital media, finance, and industrial IoT. Prior to joining eSave AG, I played a pivotal role in building robust infrastructures, leading agile development teams, and deploying mission-critical applications. My expertise includes TypeScript, Node.js, Python, Kubernetes, cloud-native architectures, and blockchain technologies, allowing me to drive innovation and efficiency at scale.\n\nAt eSave AG, I am committed to advancing technological excellence by fostering a culture of collaboration, mentoring engineering teams, and implementing state-of-the-art development and DevOps practices. My focus is on delivering sustainable, data-driven solutions that help our clients optimize their energy consumption, reduce costs, and achieve their environmental goals."
+      ]
     }
   ],
   "certificates": [
     {
-      "name": "Machine Learning",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
+      "name": "Certified Kubernetes Administrator (CKA)",
+      "issuer": "The Linux Foundation",
+      "url": "https://www.linuxfoundation.org/",
       "icon": "fa-solid fa-location-dot"
     },
     {
-      "name": "Quantum Computing",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
+      "name": "Certified Kubernetes Application Developer (CKAD)",
+      "issuer": "The Linux Foundation",
+      "url": "https://www.linuxfoundation.org/  ",
       "icon": "fa-solid fa-tag"
     },
     {
-      "name": "Quantum Information",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
+      "name": "OpenJS Node.js Application Developer (JSNAD)",
+      "issuer": "OpenJS Foundation",
+      "url": "https://openjsf.org/",
       "icon": "fa-solid fa-envelope"
     },
     {
-      "name": "Quantum Cryptography",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
+      "name": "OpenJS Node.js Services Developer (JSNSD)",
+      "issuer": "OpenJS Foundation",
+      "url": "https://openjsf.org/",
       "icon": "fa-solid fa-hashtag"
     },
     {
-      "name": "Quantum Communication",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
+      "name": "Certified Professional in Python Programming 1 (PCPP1™)",
+      "issuer": "Python Institute",
+      "url": "https://pythoninstitute.org/",
       "icon": "fa-solid fa-calendar"
-    },
-    {
-      "name": "Quantum Teleportation",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-clipboard-check"
     }
   ],
-  "publications": [
+  "education": [
+
     {
-      "name": "Zur Elektrody/namik bewegter Körper",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-06-30",
-      "url": "https://en.wikisource.org/wiki/Translation:On_the_Electrodynamics_of_Moving_Bodies",
-      "summary": "It concerned an interpretation of the Michelson–Morley experiment and the properties of light and time. Special relativity incorporates the principle that the speed of light is the same for all inertial observers regardless of the state of motion of the source."
-    },
-    {
-      "name": "Über einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-03-18",
-      "url": "https://de.wikisource.org/wiki/Über_einen_die_Erzeugung_und_Verwandlung_des_Lichtes_betreffenden_heuristischen_Gesichtspunkt",
-      "summary": "In the second paper, he applied the quantum theory to light to explain the photoelectric effect. In particular, he used the idea of light quanta (photons) to explain experimental results, but stressed the importance of the experimental results. The importance of his work on the photoelectric effect earned him the Nobel Prize in Physics in 1921."
-    },
-    {
-      "name": "Die Grundlage der allgemeinen Relativitätstheorie",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1916-03-20",
-      "url": "https://de.wikisource.org/wiki/Die_Grundlage_der_allgemeinen_Relativitätstheorie",
-      "summary": "The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–1912), before he returned to ETH Zurich (1912–1914)."
+      "institution": "Moscow Engineering Physics Institute (MEPhI)",
+      "location": "Moscow, Russia",
+      "url": "https://eng.mephi.ru/",
+      "area": "Software Development",
+      "studyType": "Master of Computer Science",
+      "startDate": "2003-09-01",
+      "endDate": "2009-11-01",
+      "summary": "Specialization in Electronics and Automation of Physical Facilities"
     }
   ],
-  "skills": [
-    {
-      "name": "Physics",
-      "level": "Master",
-      "icon": "fa-solid fa-hashtag",
-      "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
-      ]
-    }
-  ],
+  "awards": [],
+  "publications": [],
   "languages": [
     {
       "language": "German",
-      "fluency": "Native speaker",
+      "fluency": "C1-C2",
       "icon": ""
     },
     {
       "language": "English",
-      "fluency": "Fluent",
+      "fluency": "C1-C2",
+      "icon": ""
+    },
+    {
+      "language": "Chinese",
+      "fluency": "B1",
       "icon": ""
     }
   ],
-  "interests": [
-    {
-      "name": "Physics",
-      "icon": "fa-solid fa-tag",
-      "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
-      ]
-    }
-  ],
-  "references": [
-    {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-laptop",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
-    },
-    {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-thumbtack",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
-    }
-  ],
-  "projects": [
-    {
-      "name": "Quantum Computing",
-      "summary": "Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.",
-      "highlights": ["Quantum Teleportation", "Quantum Cryptography"],
-      "startDate": "2018-01-01",
-      "endDate": "2018-01-01",
-      "url": "https://example.com"
-    }
-  ]
+  "interests": [],
+  "references": [],
+  "projects": []
 }

@@ -6,6 +6,7 @@ on:
 
 jobs:
   comment:
+    if: false # This disables the job
     # available images: https://github.com/actions/runner-images#available-images
     runs-on: ubuntu-latest
     steps:
