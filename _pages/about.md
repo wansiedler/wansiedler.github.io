@@ -46,7 +46,7 @@ I ❤️:
 My 🎖️&goals:
 
 - Certified Kubernetes Administrator (CKA)
-- Certified Kubernetes Application Developer (CKAD)
+- Certified Kubernetes Application Developer (CKAD)jek
 
 - OpenJS Node.js Application Developer (JSNAD)
 - OpenJS Node.js Services Developer (JSNSD)
@@ -66,7 +66,7 @@ My 🎖️&goals:
 - [https://www.linkedin.com/in/alexander-paul-wansiedler](https://www.linkedin.com/in/alexander-paul-wansiedler/)
 
 #### My tech stack
-
+![PostgreSQL](https://img.shields.io/badge/postresql%20-%232496ED.svg?&style=for-the-badge&logo=postgres&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker%20-%232496ED.svg?&style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/kubernetes%20-%23326CE5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Redis](https://img.shields.io/badge/redis%20-%23DC382D.svg?&style=for-the-badge&logo=redis&logoColor=white)
