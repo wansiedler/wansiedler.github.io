@@ -16,33 +16,21 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-<!--
-### Hi there 👋
-**wansiedler/wansiedler** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 Hi there, I'm Alex 👋
 
 I speak English, German, Russian, French, Italian, Spanish and some Chinese.
 
 I also speak React/Next.js. Angular, Vue.js/Nuxt.js, Node.js/Express, Python/Django/Flask/FastAPI.
 
-I am a developer, technical consultant and ex CTO with over +10 years of progressively challenging technical successes in diversified cutting edge technologies with demonstrated and proven ability to organize, train and lead cross functions in achieving superior results.
+I am a developer, technical consultant and ex CTO with over +15 years of progressively challenging technical successes
+in diversified cutting edge technologies with demonstrated and proven ability to organize, train and lead cross
+functions in achieving superior results.
 
-I code everything that can be scripted, compiled or used as a microservice or a blockchain solidity ERC20-based smart contract.
+I code everything that can be scripted, compiled or used as a microservice or a blockchain solidity ERC20-based smart
+contract.
 
 I ❤️:
+
 - my family and team
 - Typescript, Node.js
 - Solidity, web3.js/ethers
@@ -56,6 +44,7 @@ I ❤️:
 - DevOps and all around
 
 My 🎖️&goals:
+
 - Certified Kubernetes Administrator (CKA)
 - Certified Kubernetes Application Developer (CKAD)
 
@@ -67,15 +56,17 @@ My 🎖️&goals:
 - Certified Entry-Level Python Programmer (PCEP™)
 
 🌱 I’m currently learning:
+
 - Solidity/Web3
 - ERC-20 with Truffles🥰 and Vyper
 
 📫 How to reach me:
+
 - telegram: [apwansiedler](https://t.me/apwansiedler)
-- https://www.linkedin.com/in/alexander-paul-wansiedler/
-- https://wansiedler.com/
+- [https://www.linkedin.com/in/alexander-paul-wansiedler](https://www.linkedin.com/in/alexander-paul-wansiedler/)
 
 #### My tech stack
+
 ![Docker](https://img.shields.io/badge/docker%20-%232496ED.svg?&style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/kubernetes%20-%23326CE5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Redis](https://img.shields.io/badge/redis%20-%23DC382D.svg?&style=for-the-badge&logo=redis&logoColor=white)
