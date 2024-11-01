@@ -64,6 +64,8 @@ contract.
 
 {% if page.social %}
 
+---
+
 #### 📫 How to reach me:
 
   <div class="social">
@@ -73,7 +75,7 @@ contract.
 {% endif %}
 
 <br/>
-
+---
 #### My tech stack 🛠️:
 
 ![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
@@ -99,11 +101,13 @@ contract.
 ![Django](https://img.shields.io/badge/django%20-%230c4b33.svg?&style=for-the-badge&logo=django&logoColor=white)
 ![Python](https://img.shields.io/badge/python%20-%231e415e.svg?&style=for-the-badge&logo=python&logoColor=white)
 ![Celery](https://img.shields.io/badge/celery%20-%2337814A.svg?&style=for-the-badge&logo=celery&logoColor=white)
-
 ![OpenZeppelin](https://img.shields.io/badge/OpenZeppelin-4E5EE4?logo=OpenZeppelin&logoColor=fff&style=for-the-badge)
 
-
+---
 
 <a href="https://github.com/wansiedler" rel="external nofollow noopener" target="_blank"> <img class="repo-img-light w-100" alt="wansiedler" src="https://github-readme-stats.vercel.app/api/?username=wansiedler&amp;theme=dark&amp;show_icons=true"> <img class="repo-img-dark w-100" alt="wansiedler" src="https://github-readme-stats.vercel.app/api/?username=wansiedler&amp;theme=dark&amp;show_icons=true"> </a>
+
+---
+
 <img class="repo-img-dark" alt="wansiedler" src="https://github-profile-trophy.vercel.app/?username=wansiedler&amp;theme=gitdimmed&amp;locale=en&amp;margin-w=15&amp;margin-h=15&amp;no-bg=true&amp;rank=-C&amp;column=6">
 
