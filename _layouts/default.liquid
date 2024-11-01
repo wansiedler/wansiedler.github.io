@@ -1,64 +1,88 @@
 <!doctype html>
 <html lang="{{ site.lang }}">
-  <!-- Head -->
-  <head>
+<!-- Head -->
+<head>
     {% if page.redirect %}
-      <meta http-equiv="refresh" content="3; url={{ site.baseurl }}/">
+        <meta http-equiv="refresh" content="3; url={{ site.baseurl }}/">
     {% endif %}
     {% include head.liquid %}
 
 
-  <!-- Yandex.Metrika counter -->
-  <script type="text/javascript" >
-    (function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)};
-      m[i].l=1*new Date();
-      for (var j = 0; j < document.scripts.length; j++) {if (document.scripts[j].src === r) { return; }}
-      k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)})
-    (window, document, "script", "https://mc.yandex.ru/metrika/tag.js", "ym");
+    <!-- Google tag (gtag.js) -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-VJ69WTM3BW"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
 
-    ym(98798088, "init", {
-      clickmap:true,
-      trackLinks:true,
-      accurateTrackBounce:true,
-      webvisor:true
-    });
-  </script>
-  <noscript><div><img src="https://mc.yandex.ru/watch/98798088" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
-  <!-- /Yandex.Metrika counter -->
+      function gtag() {
+        dataLayer.push(arguments);
+      }
 
-  </head>
+      gtag("js", new Date());
 
-  <!-- Body -->
-  <body class="{% if site.navbar_fixed %}fixed-top-nav{% endif %} {% unless site.footer_fixed %}sticky-bottom-footer{% endunless %}">
-    <!-- Header -->
+      gtag("config", "G-VJ69WTM3BW");
+    </script>
+
+    <!-- Yandex.Metrika counter -->
+    <script type="text/javascript">
+      (function(m, e, t, r, i, k, a) {
+        m[i] = m[i] || function() {
+          (m[i].a = m[i].a || []).push(arguments);
+        };
+        m[i].l = 1 * new Date();
+        for (var j = 0; j < document.scripts.length; j++) {
+          if (document.scripts[j].src === r) {
+            return;
+          }
+        }
+        k = e.createElement(t), a = e.getElementsByTagName(t)[0], k.async = 1, k.src = r, a.parentNode.insertBefore(k, a);
+      })
+      (window, document, "script", "https://mc.yandex.ru/metrika/tag.js", "ym");
+
+      ym(98798088, "init", {
+        clickmap: true,
+        trackLinks: true,
+        accurateTrackBounce: true,
+        webvisor: true,
+      });
+    </script>
+    <noscript>
+        <div><img src="https://mc.yandex.ru/watch/98798088" style="position:absolute; left:-9999px;" alt="" /></div>
+    </noscript>
+    <!-- /Yandex.Metrika counter -->
+
+</head>
+
+<!-- Body -->
+<body class="{% if site.navbar_fixed %}fixed-top-nav{% endif %} {% unless site.footer_fixed %}sticky-bottom-footer{% endunless %}">
+<!-- Header -->
 
 {% include header.liquid %}
 
 <!-- Content -->
 <div class="container mt-5" role="main">
-  {% if page.toc and page.toc.sidebar %}
-    {% if page.toc.sidebar == 'right' %}
-      <div class="row">
-        <!-- main content area -->
-        <div class="col-sm-9">{{ content }}</div>
-        <!-- sidebar, which will move to the top on a small screen -->
-        <div class="col-sm-3">
-          <nav id="toc-sidebar" class="sticky-top"></nav>
-        </div>
-      </div>
+    {% if page.toc and page.toc.sidebar %}
+        {% if page.toc.sidebar == 'right' %}
+            <div class="row">
+                <!-- main content area -->
+                <div class="col-sm-9">{{ content }}</div>
+                <!-- sidebar, which will move to the top on a small screen -->
+                <div class="col-sm-3">
+                    <nav id="toc-sidebar" class="sticky-top"></nav>
+                </div>
+            </div>
+        {% else %}
+            <div class="row">
+                <!-- sidebar, which will move to the top on a small screen -->
+                <div class="col-sm-3">
+                    <nav id="toc-sidebar" class="sticky-top"></nav>
+                </div>
+                <!-- main content area -->
+                <div class="col-sm-9">{{ content }}</div>
+            </div>
+        {% endif %}
     {% else %}
-      <div class="row">
-        <!-- sidebar, which will move to the top on a small screen -->
-        <div class="col-sm-3">
-          <nav id="toc-sidebar" class="sticky-top"></nav>
-        </div>
-        <!-- main content area -->
-        <div class="col-sm-9">{{ content }}</div>
-      </div>
+        {{ content }}
     {% endif %}
-  {% else %}
-    {{ content }}
-  {% endif %}
 </div>
 
 <!-- Footer -->
