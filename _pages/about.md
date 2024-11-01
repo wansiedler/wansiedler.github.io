@@ -1,30 +1,28 @@
----
-layout: about
-title: about
-permalink: /
-subtitle: <a href='https://github.com/wansiedler/'>We know what brought us together.</a>
+<!--
+### Hi there 👋
+**wansiedler/wansiedler** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-profile:
-  align: right
-  image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
-  more_info: >
-    <p>München</p>
-news: false # includes a list of news items
-latest_posts: false # includes a list of the newest posts
-selected_papers: false # includes a list of papers marked as "selected={true}"
-social: false # includes social icons at the bottom of the page
----
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
 
 Hi there, I'm Alex 👋
 
 I speak English, German, Russian, French, Italian, Spanish and some Chinese.
 
-I also speak REACT/NEXT.js, ANGULAR, VUEJS/NUXT.js, Node.js/EXPRESS, PYTHON/DJANGO/FASTAPI.
+I also speak React/Next.js. Angular, Vue.js/Nuxt.js, Node.js/Express, Python/Django/Flask/FastAPI.
 
 I am a developer, technical consultant and ex CTO with over +10 years of progressively challenging technical successes in diversified cutting edge technologies with demonstrated and proven ability to organize, train and lead cross functions in achieving superior results.
 
-I code everything that can be scripted, compiled or used as a micro service or a blockchain solidity ERC20-based smart contract.
+I code everything that can be scripted, compiled or used as a microservice or a blockchain solidity ERC20-based smart contract.
 
 I ❤️:
 - my family and team
@@ -50,4 +48,33 @@ My 🎖️&goals:
 - Certified Associate in Python Programming (PCAP™)
 - Certified Entry-Level Python Programmer (PCEP™)
 
-- Java SE 8 Oracle Certified Associate (OCA)
+🌱 I’m currently learning:
+- Solidity/Web3
+- ERC-20 with Truffles🥰 and Vyper
+
+📫 How to reach me:
+- telegram: [apwansiedler](https://t.me/apwansiedler)
+- https://www.linkedin.com/in/alexander-paul-wansiedler/
+- https://wansiedler.com/
+
+#### My tech stack
+![Docker](https://img.shields.io/badge/docker%20-%232496ED.svg?&style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/kubernetes%20-%23326CE5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white)
+![Redis](https://img.shields.io/badge/redis%20-%23DC382D.svg?&style=for-the-badge&logo=redis&logoColor=white)
+![GitHub](https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white)
+![GitLab](https://img.shields.io/badge/gitlab%20-%23181717.svg?&style=for-the-badge&logo=gitlab&logoColor=white)
+![CircleCI](https://img.shields.io/badge/circleci%20-%23343434.svg?&style=for-the-badge&logo=circleci&logoColor=white)
+![MUI](https://img.shields.io/badge/mui%20-%23007FFF.svg?&style=for-the-badge&logo=mui&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/typescript%20-%233178C6.svg?&style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/react%20-%23282c34.svg?&style=for-the-badge&logo=react&logoColor=%2361dafb)
+![Zustand](https://img.shields.io/badge/zustand%20-%23282c34.svg?&style=for-the-badge)
+![Three.js](https://img.shields.io/badge/three.js%20-%23222222.svg?&style=for-the-badge&logo=threedotjs&logoColor=white)
+![C](https://img.shields.io/badge/clang%20-%23A8B9CC.svg?&style=for-the-badge&logo=c&logoColor=white)
+![Django](https://img.shields.io/badge/django%20-%230c4b33.svg?&style=for-the-badge&logo=django&logoColor=white)
+![Python](https://img.shields.io/badge/python%20-%231e415e.svg?&style=for-the-badge&logo=python&logoColor=white)
+![Celery](https://img.shields.io/badge/celery%20-%2337814A.svg?&style=for-the-badge&logo=celery&logoColor=white)
+
+<div>
+    <img src="https://media.giphy.com/media/NTur7XlVDUdqM/giphy.gif" width="400" height="200"/>
+</div>
