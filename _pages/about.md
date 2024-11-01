@@ -29,7 +29,7 @@ functions in achieving superior results.
 I code everything that can be scripted, compiled or used as a microservice or a blockchain solidity ERC20-based smart
 contract.
 
-I ❤️:
+#### I ❤️:
 
 - my family and team
 - Typescript, Node.js
@@ -43,7 +43,7 @@ I ❤️:
 - MySQL/pgSQL/MongoDB
 - DevOps and all around
 
-My 🎖️&goals:
+#### My 🎖️ and 🏆:
 
 - Certified Kubernetes Administrator (CKA)
 - Certified Kubernetes Application Developer (CKAD)jek
@@ -55,17 +55,27 @@ My 🎖️&goals:
 - Certified Associate in Python Programming (PCAP™)
 - Certified Entry-Level Python Programmer (PCEP™)
 
-🌱 I’m currently learning:
+#### 🌱 I’m currently learning:
 
 - Solidity/Web3
 - ERC-20 with Truffles🥰 and Vyper
 
-📫 How to reach me:
+<img src="https://media.giphy.com/media/NTur7XlVDUdqM/giphy.gif" width="400" height="200"  style="margin: 0 auto" alt="this is fine"/>
 
-- telegram: [wansiedler](https://t.me/wansiedler)
-- [https://www.linkedin.com/in/alexander-paul-wansiedler](https://www.linkedin.com/in/alexander-paul-wansiedler/)
+{% if page.social %}
 
-#### My tech stack
+#### 📫 How to reach me:
+
+  <div class="social">
+      <div class="contact-icons">{% include social.liquid %}</div>
+      <div class="contact-note">{{ site.contact_note }}</div>
+  </div>
+{% endif %}
+
+<br/>
+
+#### My tech stack 🛠️:
+
 ![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
 ![Redis](https://img.shields.io/badge/redis%20-%23DC382D.svg?&style=for-the-badge&logo=redis&logoColor=white)
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
@@ -90,6 +100,10 @@ My 🎖️&goals:
 ![Python](https://img.shields.io/badge/python%20-%231e415e.svg?&style=for-the-badge&logo=python&logoColor=white)
 ![Celery](https://img.shields.io/badge/celery%20-%2337814A.svg?&style=for-the-badge&logo=celery&logoColor=white)
 
-<div>
-    <img src="https://media.giphy.com/media/NTur7XlVDUdqM/giphy.gif" width="400" height="200"/>
-</div>
+![OpenZeppelin](https://img.shields.io/badge/OpenZeppelin-4E5EE4?logo=OpenZeppelin&logoColor=fff&style=for-the-badge)
+
+
+
+<a href="https://github.com/wansiedler" rel="external nofollow noopener" target="_blank"> <img class="repo-img-light w-100" alt="wansiedler" src="https://github-readme-stats.vercel.app/api/?username=wansiedler&amp;theme=dark&amp;show_icons=true"> <img class="repo-img-dark w-100" alt="wansiedler" src="https://github-readme-stats.vercel.app/api/?username=wansiedler&amp;theme=dark&amp;show_icons=true"> </a>
+<img class="repo-img-dark" alt="wansiedler" src="https://github-profile-trophy.vercel.app/?username=wansiedler&amp;theme=gitdimmed&amp;locale=en&amp;margin-w=15&amp;margin-h=15&amp;no-bg=true&amp;rank=-C&amp;column=6">
+
