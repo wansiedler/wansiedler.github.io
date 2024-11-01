@@ -62,7 +62,7 @@ My 🎖️&goals:
 
 📫 How to reach me:
 
-- telegram: [apwansiedler](https://t.me/apwansiedler)
+- telegram: [wansiedler](https://t.me/wansiedler)
 - [https://www.linkedin.com/in/alexander-paul-wansiedler](https://www.linkedin.com/in/alexander-paul-wansiedler/)
 
 #### My tech stack
