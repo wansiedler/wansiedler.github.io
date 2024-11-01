@@ -66,10 +66,16 @@ My 🎖️&goals:
 - [https://www.linkedin.com/in/alexander-paul-wansiedler](https://www.linkedin.com/in/alexander-paul-wansiedler/)
 
 #### My tech stack
-![PostgreSQL](https://img.shields.io/badge/postresql%20-%232496ED.svg?&style=for-the-badge&logo=postgres&logoColor=white)
+![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
+![Redis](https://img.shields.io/badge/redis%20-%23DC382D.svg?&style=for-the-badge&logo=redis&logoColor=white)
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/Sqlite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/rabbitmq-%23FF6600.svg?&style=for-the-badge&logo=rabbitmq&logoColor=white)
+![Elastic Search](https://img.shields.io/badge/Elastic_Search-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker%20-%232496ED.svg?&style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/kubernetes%20-%23326CE5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white)
-![Redis](https://img.shields.io/badge/redis%20-%23DC382D.svg?&style=for-the-badge&logo=redis&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white)
 ![GitLab](https://img.shields.io/badge/gitlab%20-%23181717.svg?&style=for-the-badge&logo=gitlab&logoColor=white)
 ![CircleCI](https://img.shields.io/badge/circleci%20-%23343434.svg?&style=for-the-badge&logo=circleci&logoColor=white)
