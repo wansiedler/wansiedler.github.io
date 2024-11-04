@@ -7,13 +7,13 @@ subtitle: <a href='https://github.com/wansiedler/'>We know what brought us toget
 profile:
   align: right
   image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
+  image_circular: true # crops the image to make it circular
   more_info: >
     <p></p>
 news: false # includes a list of news items
 latest_posts: false # includes a list of the newest posts
 selected_papers: false # includes a list of papers marked as "selected={true}"
-social: true # includes social icons at the bottom of the page
+social: false # includes social icons at the bottom of the page
 ---
 
 Hi there, I'm Alex 👋
@@ -32,8 +32,8 @@ contract.
 #### I ❤️:
 
 - my family and team
-- Typescript, Node.js
-- Solidity, web3.js/ethers
+- Typescript, Node.js and all about Frontend
+- Solidity, Vyperweb3.js
 - Python/Django
 - PHP/Symfony
 - Kubernetes (AWS, GC)
@@ -43,10 +43,12 @@ contract.
 - MySQL/pgSQL/MongoDB
 - DevOps and all around
 
+---
+
 #### My 🎖️ and 🏆:
 
 - Certified Kubernetes Administrator (CKA)
-- Certified Kubernetes Application Developer (CKAD)jek
+- Certified Kubernetes Application Developer (CKAD)
 
 - OpenJS Node.js Application Developer (JSNAD)
 - OpenJS Node.js Services Developer (JSNSD)
@@ -54,6 +56,8 @@ contract.
 - Certified Professional in Python Programming 1 (PCPP1™)
 - Certified Associate in Python Programming (PCAP™)
 - Certified Entry-Level Python Programmer (PCEP™)
+
+---
 
 #### 🌱 I’m currently learning:
 
@@ -64,8 +68,6 @@ contract.
     <img src="https://media.giphy.com/media/NTur7XlVDUdqM/giphy.gif" width="400" height="200" alt="this is fine" />
 </div>
 
-{% if page.social %}
-
 ---
 
 #### 📫 How to reach me:
@@ -74,7 +76,6 @@ contract.
       <div class="contact-icons">{% include social.liquid %}</div>
       <div class="contact-note">{{ site.contact_note }}</div>
   </div>
-{% endif %}
 
 <br/>
 
