@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://wansiedler.com/sitemap.xml
+Sitemap: https://wansiedler.github.io/sitemap.xml
