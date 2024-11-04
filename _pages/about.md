@@ -7,13 +7,13 @@ subtitle: <a href='https://github.com/wansiedler/'>We know what brought us toget
 profile:
   align: right
   image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
+  image_circular: true # crops the image to make it circular
   more_info: >
     <p></p>
 news: false # includes a list of news items
 latest_posts: false # includes a list of the newest posts
 selected_papers: false # includes a list of papers marked as "selected={true}"
-social: true # includes social icons at the bottom of the page
+social: false # includes social icons at the bottom of the page
 ---
 
 Hi there, I'm Alex 👋
@@ -26,27 +26,28 @@ I am a developer, technical consultant and ex CTO with over +15 years of progres
 in diversified cutting edge technologies with demonstrated and proven ability to organize, train and lead cross
 functions in achieving superior results.
 
-I code everything that can be scripted, compiled or used as a microservice or a blockchain solidity ERC20-based smart
+I code everything that can be scripted, compiled or used as a microservice or a blockchain ERC-based smart
 contract.
 
 #### I ❤️:
 
 - my family and team
-- Typescript, Node.js
-- Solidity, web3.js/ethers
-- Python/Django
-- PHP/Symfony
+- Typescript, Node.js and all about Frontend and Backend written in it
+- Solidity, Vyper, web3.js
+- Python and async it's programming
 - Kubernetes (AWS, GC)
-- Gitlab CI/CD
+- Gitlab automations
 - Shell programming
-- GraphQL
-- MySQL/pgSQL/MongoDB
+- GraphQL, ELK/MongoDB, Kafka, Redis
+- MySQL/pgSQL
 - DevOps and all around
+
+---
 
 #### My 🎖️ and 🏆:
 
 - Certified Kubernetes Administrator (CKA)
-- Certified Kubernetes Application Developer (CKAD)jek
+- Certified Kubernetes Application Developer (CKAD)
 
 - OpenJS Node.js Application Developer (JSNAD)
 - OpenJS Node.js Services Developer (JSNSD)
@@ -54,6 +55,8 @@ contract.
 - Certified Professional in Python Programming 1 (PCPP1™)
 - Certified Associate in Python Programming (PCAP™)
 - Certified Entry-Level Python Programmer (PCEP™)
+
+---
 
 #### 🌱 I’m currently learning:
 
@@ -64,8 +67,6 @@ contract.
     <img src="https://media.giphy.com/media/NTur7XlVDUdqM/giphy.gif" width="400" height="200" alt="this is fine" />
 </div>
 
-{% if page.social %}
-
 ---
 
 #### 📫 How to reach me:
@@ -74,7 +75,6 @@ contract.
       <div class="contact-icons">{% include social.liquid %}</div>
       <div class="contact-note">{{ site.contact_note }}</div>
   </div>
-{% endif %}
 
 <br/>
 
