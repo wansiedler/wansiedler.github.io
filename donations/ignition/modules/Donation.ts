@@ -8,4 +8,3 @@ const DonationModule = buildModule("DonationModule", (m) => {
 });
 
 export default DonationModule;
-
