@@ -32,15 +32,14 @@ contract.
 #### I ❤️:
 
 - my family and team
-- Typescript, Node.js and all about Frontend
-- Solidity, Vyperweb3.js
-- Python/Django
-- PHP/Symfony
+- Typescript, Node.js and all about Frontend and Backend written in it
+- Solidity, Vyper, web3.js
+- Python and async it's programming
 - Kubernetes (AWS, GC)
-- Gitlab CI/CD
+- Gitlab automations
 - Shell programming
-- GraphQL
-- MySQL/pgSQL/MongoDB
+- GraphQL, ELK/MongoDB, Kafka, Redis
+- MySQL/pgSQL
 - DevOps and all around
 
 ---
