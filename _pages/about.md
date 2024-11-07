@@ -26,7 +26,7 @@ I am a developer, technical consultant and ex CTO with over +15 years of progres
 in diversified cutting edge technologies with demonstrated and proven ability to organize, train and lead cross
 functions in achieving superior results.
 
-I code everything that can be scripted, compiled or used as a microservice or a blockchain solidity ERC20-based smart
+I code everything that can be scripted, compiled or used as a microservice or a blockchain ERC-based smart
 contract.
 
 #### I ❤️:
