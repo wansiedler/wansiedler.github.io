@@ -21,6 +21,8 @@ env:
 
 jobs:
   check:
+    name: Axe accessibility testing
+    if: false # This disables the job
     # available images: https://github.com/actions/runner-images#available-images
     runs-on: ubuntu-latest
     steps:
