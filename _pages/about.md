@@ -39,7 +39,7 @@ I also speak Rust for:
 - TON (Telegram Open Network)
 - extensive expertise in Telegram bots programming
 
-React Native/Expo and Flutter (Kotlin and Swift in progress) are my go-to for mobile development.
+React Native/Expo, ObjC/Swift and Dart/Flutter (Kotlin in progress) are my go-to for mobile development.
 
 I am in a love/hate relationship with C/C++ and FreeBSD❤️.
 When I feel particularly nerdy I code Haskell and Lisp, play chess, spend a lifetime on Leetcode/HackerRank leveling up my score and kitesurf in Alps (Cabrinha Contra 17).
