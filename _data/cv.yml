@@ -43,7 +43,7 @@
       description:
         - Developed and managed a high-concurrency crypto-trading platform supporting thousands of assets.
         - Backend: Developed using Golang, Node.js, PostgreSQL, and Redis within Docker Swarm.
-        - Frontend: Led team transition from Angular (NgRx) to Vue.js (Vuex, Pinia).
+        - Frontend: Led team transition from Angular (NgRx) to Vue.js(Vuex, Pinia)/Quasar.
 
     - title: CTO
       institution: esaveRus Ltd.
@@ -80,7 +80,7 @@
   contents:
     - title: Full Stack Development
       items:
-        - TypeScript, Node.js, React, Next.js, FastAPI, Express, Angular, Vue.js, Python, Django, Golang, Symfony
+        - TypeScript/React/Next.js/Angular/Vue.js Node.js/Express/Fastify, Python/FastAPI/Django/Flask, Golang/gin, PHP/Symfony
     - title: DevOps & Infrastructure
       items:
         - Docker, Kubernetes, GitLab CI/CD, Terraform, Ansible, Prometheus, Grafana, ELK Stack, AWS, Azure, Google Cloud Platform, Apache Kafka
