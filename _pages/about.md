@@ -181,9 +181,9 @@ and lead teams to do the same.
 
 Here are being accepted following cryptocurrencies:
 
-<div style="text-wrap: wrap;text-align: center;max-width:75%;word-break: break-all;overflow-wrap: break-word;">BTC bc1q9l834mcqwju8xhmc4pjjkqmvesr0nqc4g7p8xv</div><br/>
-<div style="text-wrap: wrap;text-align: center;max-width:75%;word-break: break-all;overflow-wrap: break-word;">ETH/BSC 0x05E1f89d11C06bce9E829709442D75005eB07876</div><br/>
-<div style="text-wrap: wrap;text-align: center;max-width:75%;word-break: break-all;overflow-wrap: break-word;">SOL FgupYKqPpD75XNkKvpnLvHb45haS15zHTJU1kfA9qVf3</div>
+<div style="text-wrap: wrap;max-width:75%;word-break: break-all;overflow-wrap: break-word;">BTC bc1q9l834mcqwju8xhmc4pjjkqmvesr0nqc4g7p8xv</div><br/>
+<div style="text-wrap: wrap;max-width:75%;word-break: break-all;overflow-wrap: break-word;">ETH/BSC 0x05E1f89d11C06bce9E829709442D75005eB07876</div><br/>
+<div style="text-wrap: wrap;max-width:75%;word-break: break-all;overflow-wrap: break-word;">SOL FgupYKqPpD75XNkKvpnLvHb45haS15zHTJU1kfA9qVf3</div>
 
 <br/> 
 <img alt="You may have a screen reader, but you still got rick rolled. Yes, this is a gif of Rick Astley's famous &quot;Never Gonna Give You Up&quot;." src="https://github.com/poteto/poteto/blob/master/nice.gif?raw=true" style="max-width:75%;display: block;margin: 0 auto">
