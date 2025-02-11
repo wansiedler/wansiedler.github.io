@@ -180,6 +180,7 @@ and lead teams to do the same.
 <br/>
 
 Here are being accepted following cryptocurrencies:
+<br/>
 
 <div style="text-wrap: wrap;max-width:75%;word-break: break-all;overflow-wrap: break-word;">BTC bc1q9l834mcqwju8xhmc4pjjkqmvesr0nqc4g7p8xv</div><br/>
 <div style="text-wrap: wrap;max-width:75%;word-break: break-all;overflow-wrap: break-word;">ETH/BSC 0x05E1f89d11C06bce9E829709442D75005eB07876</div><br/>
