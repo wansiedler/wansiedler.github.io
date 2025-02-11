@@ -179,7 +179,7 @@ and lead teams to do the same.
 <img class="repo-img-dark" alt="wansiedler" style="display:block;margin: 0 auto;max-width: 75%;" src="https://github-profile-trophy.vercel.app/?username=wansiedler&theme=gitdimmed&locale=en&margin-w=5&margin-h=5&no-bg=true&rank=-C&column=4">
 <br/>
 
-Here are being accepted following cryptocurrencies:
+Here are being accepted following currencies:
 <br/>
 
 <div style="text-wrap: wrap;max-width:75%;word-break: break-all;overflow-wrap: break-word;">BTC bc1q9l834mcqwju8xhmc4pjjkqmvesr0nqc4g7p8xv</div><br/>
