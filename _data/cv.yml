@@ -80,13 +80,13 @@
   contents:
     - title: Full Stack Development
       items:
-        - TypeScript/React/Next.js/Angular/Vue.js Node.js/Express/Fastify, Python/FastAPI/Django/Flask, Golang/gin, PHP/Symfony
+        - TypeScript/React/Next.js/Angular/Vue.js/Quasar, Node.js/Express/Fastify, Python/FastAPI/Django/Flask, Golang/gin, PHP/Symfony
     - title: DevOps & Infrastructure
       items:
         - Docker, Kubernetes, GitLab CI/CD, Terraform, Ansible, Prometheus, Grafana, ELK Stack, AWS, Azure, Google Cloud Platform, Apache Kafka
     - title: Databases
       items:
-        - PostgreSQL, Redis, MySQL/MariaDB, ElasticSearch
+        - PostgreSQL, Redis, MySQL/MariaDB, ElasticSearch, Firebase, MongoDB, S3,
 
 - title: Languages
   type: map
