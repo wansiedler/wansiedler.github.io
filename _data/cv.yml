@@ -83,10 +83,10 @@
         - TypeScript/React/Next.js/Angular/Vue.js/Quasar, Node.js/Express/Fastify, Python/FastAPI/Django/Flask, Golang/gin, PHP/Symfony
     - title: DevOps & Infrastructure
       items:
-        - Docker, Kubernetes, GitLab CI/CD, Terraform, Ansible, Prometheus, Grafana, ELK Stack, AWS, Azure, Google Cloud Platform, Apache Kafka
+        - Docker, Kubernetes, GitLab CI/CD, Terraform, Ansible, Prometheus, Grafana, ELK Stack, AWS, Azure, Google Cloud Platform
     - title: Databases
       items:
-        - PostgreSQL, Redis, MySQL/MariaDB, ElasticSearch, Firebase, MongoDB, S3,
+        - PostgreSQL, MySQL/MariaDB, ElasticSearch, Firebase, MongoDB, S3, Redis/Apache Kafka
 
 - title: Languages
   type: map
