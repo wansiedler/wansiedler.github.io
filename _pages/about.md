@@ -87,7 +87,7 @@ and lead teams to do the same.
 - Computer Vision in Pytorch/Keras & opencv
 
 <div style="text-align: center;">
-    <img src="https://media.giphy.com/media/NTur7XlVDUdqM/giphy.gif" width="100%" alt="this is fine" />
+    <img src="https://media.giphy.com/media/NTur7XlVDUdqM/giphy.gif" width="50%" alt="this is fine" />
 </div>
  
 ---
