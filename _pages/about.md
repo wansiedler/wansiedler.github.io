@@ -178,4 +178,4 @@ and lead teams to do the same.
 <br/>
 <img class="repo-img-dark" alt="wansiedler" style="display:block;margin: 0 auto;max-width: 75%;" src="https://github-profile-trophy.vercel.app/?username=wansiedler&theme=gitdimmed&locale=en&margin-w=5&margin-h=5&no-bg=true&rank=-C&column=4">
 <br/>
-<div style="text-wrap: wrap;text-align: center;">BTC bc1q3ectt0sl8gaqzps2w3l3tp8mft9nlypcrznd3n</div>
+<div style="text-wrap: wrap;text-align: center;width:75%">BTC bc1q3ectt0sl8gaqzps2w3l3tp8mft9nlypcrznd3n</div>
