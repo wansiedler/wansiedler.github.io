@@ -57,16 +57,16 @@ and lead teams to do the same.
 
 - My Family and Team
 - TypeScript with Node.js Express/Nest.js/fastify with Sequelize/Prisma/TypeORM/Drizzle,
-- Ethers.js with React (Solid.js, Redux, Zustand)/Angular (NgRx)/Vue.js (Vuex, Pinia), TDD (with jest, cypress, playwright),
-- Python with FastAPI/Django/Flask, Celery, and SQLAlchemy.
-- Apache Hadoop/Apache Kafka, Redis/RabbitMQ, PostgreSQL/MySQL, ElasticSearch, MongoDB, S3, Firebase, GraphQL
+- Ethers.js with React(Solid.js, Redux, Zustand)+Next/Angular (NgRx)/Vue.js(Vuex, Pinia)/Quasar, TDD (with jest, cypress, playwright)
+- Python with FastAPI/Django/Flask, Celery, and SQLAlchemy
 - Golang with Gin/Echo, PHP in Symfony/Laravel/Zend
-- Kubernetes: Advanced cluster design, monitoring, and troubleshooting.
-- DevOps/GitOps Tools: ArgoCD, Flux, and automated deployment strategies.
-- Infrastructure as Code: Crossplane, Terraform, AWS CDK, and CloudFormation with Docker.
-- CI/CD Expertise: GitLab CI/CD, Jenkins, and GitLab/GitHub Actions.
-- Cloud Platforms: Extensive experience with AWS, GCP, and Azure.
-- Monitoring: Hands-on with Prometheus, Grafana, and ELK Stack.
+- Apache Hadoop/Apache Kafka, Redis/RabbitMQ, PostgreSQL/MySQL, ElasticSearch, MongoDB, S3, Firebase, GraphQL
+- Kubernetes: Advanced cluster design, monitoring and troubleshooting
+- DevOps/GitOps Tools: ArgoCD, Flux and automated deployment strategies
+- Infrastructure as Code: Crossplane, Terraform, AWS CDK and CloudFormation with Docker
+- CI/CD Expertise: GitLab CI/CD, Jenkins and GitLab/GitHub Actions
+- Cloud Platforms: Extensive experience with AWS, GCP and Azure
+- Monitoring: Hands-on with Prometheus, Grafana and ELK Stack
 - Languages: German (native), English (native), Chinese (certified B1)
 
 #### My 🎖️ and 🏆:
