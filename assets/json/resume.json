@@ -150,7 +150,7 @@
   "publications": [],
   "skills": [
     {
-      "name": "Blockchain with Rust/Solidity",
+      "name": "Rust/Solidity for Blockchain",
       "keywords": [
         "Solana",
         "Mucho",
@@ -193,7 +193,7 @@
         "Python/FastAPI/Django/Flask",
         "Golang/gin",
         "PHP/Symfony",
-        "RESTful APIs/WebSockets/GraphQL"
+        "RESTful APIs/WebSockets"
       ]
     },
     {
@@ -225,14 +225,7 @@
     },
     {
       "name": "Databases/MB&DS",
-      "keywords": [
-        "SQL PostgreSQL/MySQL/MariaDB",
-        "ElasticSearch/MongoDB",
-        "GraphQL",
-        "MB&Streaming with Redis/Apache Kafka/RabbitMQ",
-        "Firebase",
-        "S3"
-      ]
+      "keywords": ["PostgreSQL/MySQL/MariaDB", "ElasticSearch/MongoDB", "GraphQL", "Redis/Apache Kafka/RabbitMQ", "Firebase", "S3"]
     }
   ],
   "languages": [
