@@ -42,7 +42,7 @@ I also speak Rust for:
 React Native/Expo, ObjC/Swift and Dart/Flutter (Kotlin in progress) are my go-to for mobile development.
 
 I am in a love/hate relationship with C/C++ and FreeBSD❤️.
-When I feel particularly nerdy I code Haskell and Lisp, play chess, spend a lifetime on Leetcode/HackerRank leveling up my score and kitesurf in Alps (Cabrinha Contra 17).
+When I feel particularly nerdy I code Haskell and Lisp.
 
 I am fluent in DevOps/Gitops dialects, Docker/Kubernetes/OpenStack, Ceph, OpenTelemetry, IaC and all around it.
 I enjoy working with Terraform & Ansible in AWS and GCP environments.

@@ -80,15 +80,18 @@
 - title: Skills
   type: nested_list
   contents:
+    - title: Frontend Development
+      items:
+        - TypeScript for React(Next.js, Tailwind CSS, Chakra UI, Material-UI, shadcn/ui)/Angular/Vue.js(Pinia,Vue-query,Quasar) with Webpack/Vite/Rollup/bun, Svelte, Elm, WebAssembly
     - title: Full Stack Development
       items:
-        - TypeScript/React/Next.js/Angular/Vue.js/Quasar, Node.js/Express/Fastify, Python/FastAPI/Django/Flask, Golang/gin, PHP/Symfony
+        - RESTful APIs for TypeScript/Node.js/Express/Fastify, Python/FastAPI/Django/Flask, Golang/gin, PHP/Symfony
     - title: DevOps & Infrastructure
       items:
-        - Docker, Kubernetes, GitLab CI/CD, Terraform, Ansible, Prometheus, Grafana, ELK Stack, AWS, Azure, Google Cloud Platform, Heroku/Netlify/Vercel, Cloudflare, Nginx/Apache
+        - Docker, Kubernetes, GitLab CI/CD/Github Actions, Terraform, Ansible, Prometheus, Grafana, ELK Stack, AWS/Google Cloud, Azure, Heroku/Netlify/Vercel, Cloudflare, Nginx/Apache
     - title: Databases
       items:
-        - PostgreSQL, MySQL/MariaDB, ElasticSearch, Firebase, MongoDB, S3, Redis/Apache Kafka
+        - SQL PostgreSQL/MySQL/MariaDB, NoSQL ElasticSearch/MongoDB, Firebase, S3, BM with Redis/Apache Kafka/RabbitMQ
 
 - title: Languages
   type: map
