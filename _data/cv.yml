@@ -2,7 +2,7 @@
   type: map
   contents:
     - name: Full Name
-      value: Alexander Wansiedler
+      value: Alexander Paul Wansiedler
     - name: Position
       value: Senior Full Stack/Web3/DevOps Software Engineer
     - name: Email
@@ -10,14 +10,14 @@
     - name: Phone
       value: +49 176 241 64 141
     - name: Telegram
-      value: wansiedler
+      value: <a href="https://t.me/wansiedler">wansiedler</a>
     - name: Location
       value: Munich, Bavaria, Germany
-    - name: Profiles
-      value:
-        - LinkedIn: https://linkedin.com/in/wansiedler
-        - Twitter: https://twitter.com/0xWansiedler
-        - Telegram: https://t.me/wansiedler
+#    - name: Profiles
+#      value:
+#        - LinkedIn: https://linkedin.com/in/wansiedler
+#        - Twitter: https://twitter.com/0xWansiedler
+#        - Telegram: https://t.me/wansiedler
 
 - title: Summary
   type: text
@@ -82,13 +82,13 @@
   contents:
     - title: Frontend Development
       items:
-        - TypeScript for React(Next.js, Tailwind CSS, Chakra UI, Material-UI, shadcn/ui)/Angular/Vue.js(Pinia,Vue-query,Quasar) with Webpack/Vite/Rollup/bun, Svelte, Elm, WebAssembly
-    - title: Full Stack Development
+        - FSD/Module Federation with TDD, TypeScript  in React(TanStack Query/SWR, Chakra UI, Material-UI, shadcn)/Angular/Vue.js(Pinia,Vue-query,Quasar) with Webpack/Vite/Rollup/bun, WebAssembly
+    - title: Backend Stack Development
       items:
-        - RESTful APIs for TypeScript/Node.js/Express/Fastify, Python/FastAPI/Django/Flask, Golang/gin, PHP/Symfony
+        - Microservices in TypeScript/Node.js/Next.js/Express/Fastify, Python/FastAPI/Django/Flask, Golang/gin, PHP/Symfony. RESTful APIs/WebSockets/GraphQL,
     - title: DevOps & Infrastructure
       items:
-        - Docker, Kubernetes, GitLab CI/CD/Github Actions, Terraform, Ansible, Prometheus, Grafana, ELK Stack, AWS/Google Cloud, Azure, Heroku/Netlify/Vercel, Cloudflare, Nginx/Apache
+        - Docker, Kubernetes, GitLab CI/CD/Github Actions, Terraform, Ansible, Prometheus, Grafana, ELK Stack, AWS/Google Cloud/Azure, Heroku/Netlify/Vercel, Cloudflare, Nginx/Apache
     - title: Databases
       items:
         - SQL PostgreSQL/MySQL/MariaDB, NoSQL ElasticSearch/MongoDB, Firebase, S3, BM with Redis/Apache Kafka/RabbitMQ
