@@ -15,7 +15,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Hi there, I'm Alex 👋 (<a href="https://wansiedler.com/">check out my CV</a>)
+Hi there, I'm Alex 👋 (<a href="https://wansiedler.com/cv">my CV</a> and <a href="https://linktr.ee/wansiedler">linktree</a>)
 
 I speak Data Structures & Algorithms, English, German, Russian and some Chinese.
 
