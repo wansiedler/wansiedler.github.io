@@ -1,11 +1,11 @@
 {
   "basics": {
     "name": "Alexander Paul Wansiedler",
-    "label": "Senior Full Stack Software Engineer",
-    "email": "alexander@wansiedler.com",
-    "phone": "+49 176 241 64 141",
+    "label": "Senior Full Stack/Web3/DevOps Software Engineer",
     "summary": "Accomplished and results-driven Senior Web3/Full-Stack Engineer with over 20 years of experience in software engineering, DevOps, and system architecture across industries, including web3, digital media, finance, and IoT. Skilled in designing and implementing robust architectures and scalable CI/CD pipelines, with a strong agile focus on big data, zero-party data collection, user-friendly frontends, and high-performance backends.\nExperienced mentor in TypeScript, Python, and Rust, architecture, SOLID, and agile principles.",
     "telegram": "wansiedler",
+    "email": "alexander@wansiedler.com",
+    "phone": "+49 176 241 64 141",
     "location": {
       "city": "Munich",
       "countryCode": "DE",
