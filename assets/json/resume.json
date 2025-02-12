@@ -77,6 +77,7 @@
       "summary": "Led the integration of Swiss IoT street lighting systems in Russia, managing cross-functional teams and technical documentation.",
       "highlights": [
         "Oversaw hardware/software integration and deployment processes",
+        "Managed server infrastructure and developed backend systems for IoT street lighting systems",
         "Coordinated cross-functional teams and produced technical documentation"
       ]
     },
@@ -88,7 +89,7 @@
       "endDate": "2015-09-01",
       "summary": "Developed e-commerce platforms and backend systems, including major projects for the Russian market.",
       "highlights": [
-        "Delivered Symfony/Django projects, enhancing e-commerce functionalities",
+        "Delivered dozens (sotmarket.ru, ozon.ru etc.) of Symfony/Django and jQuery/extjs based projects with e-commerce/ERC/CRM functionalities",
         "Developed PostgreSQL module, improving data retrieval speeds by over 70%"
       ]
     }
@@ -150,6 +151,34 @@
   "publications": [],
   "skills": [
     {
+      "name": "Frontend Development",
+      "icon": "fa-solid fa-hashtag",
+      "keywords": [
+        "FSD/Module Federation with TDD",
+        "TypeScript in React (TanStack Query/SWR, Chakra UI, Material-UI, shadcn)",
+        "Angular",
+        "Vue.js (Pinia, Vue-query, Quasar/Nuxt.js)",
+        "Webpack/Vite/Rollup/bun",
+        "WebAssembly"
+      ]
+    },
+    {
+      "name": "Node",
+      "icon": "fa-solid fa-hashtag",
+      "keywords": ["Microservices in TypeScript/Node.js/Next.js/Express/Fastify", "RESTful APIs/WebSockets"]
+    },
+    {
+      "name": "Python",
+      "icon": "fa-solid fa-hashtag",
+      "keywords": ["FastAPI", "Django", "Flask"]
+    },
+    {
+      "name": "Golang",
+      "icon": "fa-solid fa-hashtag",
+      "keywords": ["Gin"]
+    },
+
+    {
       "name": "Rust/Solidity for Blockchain",
       "keywords": [
         "Solana",
@@ -172,39 +201,6 @@
         "Polkadot",
         "TON (Telegram Open Network)"
       ]
-    },
-    {
-      "name": "Frontend Development",
-      "icon": "fa-solid fa-hashtag",
-      "keywords": [
-        "FSD/Module Federation with TDD",
-        "TypeScript in React (TanStack Query/SWR, Chakra UI, Material-UI, shadcn)",
-        "Angular",
-        "Vue.js (Pinia, Vue-query, Quasar)",
-        "Webpack/Vite/Rollup/bun",
-        "WebAssembly"
-      ]
-    },
-    {
-      "name": "Backend Development",
-      "icon": "fa-solid fa-hashtag",
-      "keywords": [
-        "Microservices in TypeScript/Node.js/Next.js/Express/Fastify",
-        "Python/FastAPI/Django/Flask",
-        "Golang/gin",
-        "PHP/Symfony",
-        "RESTful APIs/WebSockets"
-      ]
-    },
-    {
-      "name": "Golang",
-      "icon": "fa-solid fa-hashtag",
-      "keywords": ["Gin"]
-    },
-    {
-      "name": "Python",
-      "icon": "fa-solid fa-hashtag",
-      "keywords": ["FastAPI", "Django", "Flask"]
     },
     {
       "name": "DevOps & Infrastructure",
