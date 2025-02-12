@@ -164,7 +164,7 @@
       "endDate": "2015-09-01",
       "summary": "Developed e-commerce platforms and backend systems, including major projects for the Russian market.",
       "highlights": [
-        "Delivered dozens (sotmarket.ru, ozon.ru etc.) of Symfony/Django and jQuery/extjs based projects with e-commerce/ERC/CRM functionalities",
+        "Delivered dozens (sotmarket.ru, ozon.ru etc.) of Symfony/Django/RoR and jQuery/extjs based projects with e-commerce/ERC/CRM functionalities",
         "Developed PostgreSQL module, improving data retrieval speeds by over 70%"
       ]
     }
