@@ -1,4 +1,4 @@
-- title: General Information
+- title: ""
   type: map
   contents:
     - name: Full Name
@@ -10,7 +10,7 @@
     - name: Phone
       value: +49 176 241 64 141
     - name: Telegram
-      value: <a href="https://t.me/wansiedler">wansiedler</a>
+      value: <a href="https://t.me/wansiedler">wansiedler</a> (click me)
     - name: Location
       value: Munich, Bavaria, Germany
 #    - name: Profiles
@@ -21,8 +21,12 @@
 
 - title: Summary
   type: text
-  contents:
-    - Accomplished Senior Full Stack Engineer with over 20 years of experience in software engineering, DevOps, and system architecture across digital media, finance, and IoT. Skilled in designing and implementing scalable CI/CD pipelines, with expertise in big data, zero-party data collection, and both frontend and backend systems.
+  contents: |
+    Accomplished and results-driven Senior Web3/Full-Stack Engineer with over 20 years of experience in software engineering,
+    DevOps, and system architecture across industries, including web3, digital media, finance, and IoT. 
+    Skilled in designing and implementing robust architectures and scalable CI/CD pipelines, 
+    with a strong agile focus on big data, zero-party data collection, user-friendly frontends, and high-performance backends.
+    Experienced mentor in TypeScript, Python and Rust, architecture, SOLID and agile principles.
 
 - title: Work Experience
   type: time_table
@@ -103,4 +107,4 @@
     - language: Russian
       fluency: Native
     - language: Chinese
-      fluency: B1
+      fluency: A2-B1

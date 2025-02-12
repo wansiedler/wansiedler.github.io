@@ -150,7 +150,7 @@
   "publications": [],
   "skills": [
     {
-      "name": "Blockchain Development with Rust ( and Solidity)",
+      "name": "Blockchain with Rust/Solidity",
       "keywords": [
         "Solana",
         "Mucho",
@@ -174,9 +174,27 @@
       ]
     },
     {
-      "name": "TypeScript",
+      "name": "Frontend Development",
       "icon": "fa-solid fa-hashtag",
-      "keywords": ["Node", "Next.js", "Express", "Angular", "Vue.js", "React"]
+      "keywords": [
+        "FSD/Module Federation with TDD",
+        "TypeScript in React (TanStack Query/SWR, Chakra UI, Material-UI, shadcn)",
+        "Angular",
+        "Vue.js (Pinia, Vue-query, Quasar)",
+        "Webpack/Vite/Rollup/bun",
+        "WebAssembly"
+      ]
+    },
+    {
+      "name": "Backend Development",
+      "icon": "fa-solid fa-hashtag",
+      "keywords": [
+        "Microservices in TypeScript/Node.js/Next.js/Express/Fastify",
+        "Python/FastAPI/Django/Flask",
+        "Golang/gin",
+        "PHP/Symfony",
+        "RESTful APIs/WebSockets/GraphQL"
+      ]
     },
     {
       "name": "Golang",
@@ -193,52 +211,44 @@
       "keywords": [
         "Docker",
         "Kubernetes",
-        "AWS",
-        "Google Cloud Platform",
-        "Azure",
-        "GitLab CI/CD",
-        "Github Actions",
+        "GitLab CI/CD/GitHub Actions",
         "Terraform",
         "Ansible",
         "Prometheus",
         "Grafana",
-        "ELK Stack"
+        "ELK Stack",
+        "AWS/Google Cloud/Azure",
+        "Heroku/Netlify/Vercel",
+        "Cloudflare",
+        "Nginx/Apache"
       ]
     },
     {
-      "name": "Databases/Data Streaming",
-      "keywords": ["PostgreSQL", "Redis", "MySQL/MariaDB", "ElasticSearch", "Apache Kafka"]
+      "name": "Databases/MB&DS",
+      "keywords": [
+        "SQL PostgreSQL/MySQL/MariaDB",
+        "ElasticSearch/MongoDB",
+        "GraphQL",
+        "MB&Streaming with Redis/Apache Kafka/RabbitMQ",
+        "Firebase",
+        "S3"
+      ]
     }
   ],
   "languages": [
     {
       "language": "German",
-      "fluency": "native",
+      "fluency": "C1-C2",
       "icon": ""
     },
     {
       "language": "English",
-      "fluency": "native",
+      "fluency": "C1-C2",
       "icon": ""
     },
     {
       "language": "Russian",
       "fluency": "native",
-      "icon": ""
-    },
-    {
-      "language": "French",
-      "fluency": "A2",
-      "icon": ""
-    },
-    {
-      "language": "Italian",
-      "fluency": "A1",
-      "icon": ""
-    },
-    {
-      "language": "Spanish",
-      "fluency": "A2",
       "icon": ""
     },
     {
