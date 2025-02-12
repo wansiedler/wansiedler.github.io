@@ -98,7 +98,7 @@
         "Prometheus",
         "Grafana",
         "ELK Stack",
-        "AWS/Google Cloud/Azure",
+        "AWS(Lambda, RDS, ECS)/Google Cloud/Azure",
         "Heroku/Netlify/Vercel",
         "Cloudflare",
         "Nginx/Apache"
@@ -106,7 +106,7 @@
     },
     {
       "name": "Databases/MB&DS",
-      "keywords": ["PostgreSQL/MySQL/MariaDB", "ElasticSearch/MongoDB", "GraphQL", "Redis/Apache Kafka/RabbitMQ", "Firebase", "S3"]
+      "keywords": ["PostgreSQL/MySQL/MariaDB", "ElasticSearch/MongoDB/ClickHouse", "GraphQL", "Redis/Apache Kafka/RabbitMQ", "Firebase", "S3"]
     }
   ],
   "work": [
@@ -179,7 +179,7 @@
     {
       "name": "Certified Kubernetes Application Developer (CKAD)",
       "issuer": "The Linux Foundation",
-      "url": "https://www.linuxfoundation.org/",
+      "url": "https://www.linuxfoundation.org/  ",
       "icon": "fa-solid fa-tag"
     },
     {
