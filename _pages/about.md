@@ -19,6 +19,17 @@ Hi there, I'm Alex 👋 (<a href="https://wansiedler.com/cv">my CV</a> and <a hr
 
 I speak Data Structures & Algorithms, English, German, Russian and Chinese.
 
+What are my core skills? 🎯
+
+✔ 20+ years in C/JS/PHP/Python/Ruby/SQL, 10+ in TS/Node.js, 7+ in Rust/Solidity, 8+ in Go
+✔ Extensive experience in microservices/monoliths, APIs, profiling&optimisation, Unit/regression/E2E-testing\
+✔ Mentorship/Codereview/Techleading/Projectmanagement\
+✔ Adapting Agile/Scrum/Kanban for cross-functional teams\
+✔ Experience in process transformation and architecture migration\
+✔ Experience in creating and supporting SaaS solutions
+
+---
+
 I am fluent in TypeScript for Node.js/Nest/Express/Fastify and React/Next.js, Angular/Universal, Vue.js/Nuxt.js, Svelt/Kit.
 Python for Django/Flask/FastAPI. Go for gin/echo. Ruby for RoR. Java for Spring.
 
@@ -47,11 +58,15 @@ When I feel particularly nerdy I code Haskell and Lisp.
 I am fluent in DevOps/Gitops dialects, Docker/Kubernetes/OpenStack, Ceph, OpenTelemetry, IaC and all around it.
 I enjoy working with Terraform & Ansible in AWS and GCP environments.
 
+---
+
 I am a developer, technical consultant and ex-CTO with over 20 years of progressively challenging technical successes
 in diversified, cutting-edge technologies with demonstrated and proven ability to organize, train and lead cross-functional teams in achieving superior results, making me a team player and a leader with a strong sense of responsibility.
 
 I code everything that can be scripted, compiled or used as a microservice or a blockchain smart contract
 and lead teams to do the same.
+
+---
 
 #### I ❤️:
 
