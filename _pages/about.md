@@ -171,9 +171,7 @@ and lead teams to do the same.
 <br/>
 
 [//]: # "stars,commits,prs,issues,"
-
-'<a href="https://github.com/wansiedler" rel="external nofollow noopener" target="_blank"><img class="repo-img-dark w-100" alt="wansiedler" src="https://github-readme-stats.vercel.app/api/?username=wansiedler&theme=dark&show_icons=true&hide=contribs"></a>'
-
+[//]: # ('<a href="https://github.com/wansiedler" rel="external nofollow noopener" target="_blank"><img class="repo-img-dark w-100" alt="wansiedler" src="https://github-readme-stats.vercel.app/api/?username=wansiedler&theme=dark&show_icons=true&hide=contribs"></a>')
 [//]: # ('<img class="repo-img-dark w-100" alt="wansiedler" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wansiedler&theme=dark&layout=compact">')
 [//]: # "[![WakaTime](https://github-readme-stats.vercel.app/api/wakatime?username=wansiedler)](https://github.com/wansiedler/github-readme-stats)"
 
