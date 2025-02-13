@@ -21,6 +21,7 @@ What are my core skills? 🎯
 
 ✔ 20+ years in C/JS/PHP/Python/Ruby/SQL, 10+ in TS/Node.js, 7+ in Rust/Solidity, 8+ in Go \
 ✔ Extensive experience in microservices/monoliths, APIs (REST/GraphQL/WebSockets), profiling&optimisation, Unit/regression/E2E-testing\
+✔ 10+ Years of managing Infrastructure as Code (Terraform/Ansible) within AWS/GCP/Azure \
 ✔ Mentorship/Codereview/Techleading/Projectmanagement\
 ✔ Adapting Agile/Scrum/Kanban for cross-functional teams\
 ✔ Experience in process transformation and architecture migration\
