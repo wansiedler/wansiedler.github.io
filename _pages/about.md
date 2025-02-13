@@ -90,7 +90,6 @@ and lead teams to do the same.
     <img src="https://media.giphy.com/media/NTur7XlVDUdqM/giphy.gif" width="50%" alt="this is fine" />
 </div>
 
-
 ---
 
 #### My 🛠️:
@@ -191,4 +190,4 @@ and lead teams to do the same.
 
 ---
 
-[//]: # (<img alt="You may have a screen reader, but you still got rick rolled. Yes, this is a gif of Rick Astley's famous "Never Gonna Give You Up"." src="https://github.com/poteto/poteto/blob/master/nice.gif?raw=true" style="max-width:75%;display: block;margin: 0 auto">)
+[//]: # '<img alt="Never Gonna Give You Up" src="https://github.com/poteto/poteto/blob/master/nice.gif?raw=true" style="max-width:15%;display: block;margin: 0 auto">!'
