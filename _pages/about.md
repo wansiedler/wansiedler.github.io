@@ -17,11 +17,9 @@ social: true # includes social icons at the bottom of the page
 
 Hi there, I'm Alex 👋 (<a href="https://wansiedler.com/cv">my CV</a> and <a href="https://linktr.ee/wansiedler">linktree</a>)
 
-I speak Data Structures & Algorithms, English, German, Russian and Chinese.
-
 What are my core skills? 🎯
 
-✔ 20+ years in C/JS/PHP/Python/Ruby/SQL, 10+ in TS/Node.js, 7+ in Rust/Solidity, 8+ in Go
+✔ 20+ years in C/JS/PHP/Python/Ruby/SQL, 10+ in TS/Node.js, 7+ in Rust/Solidity, 8+ in Go \
 ✔ Extensive experience in microservices/monoliths, APIs (REST/GraphQL/WebSockets), profiling&optimisation, Unit/regression/E2E-testing\
 ✔ Mentorship/Codereview/Techleading/Projectmanagement\
 ✔ Adapting Agile/Scrum/Kanban for cross-functional teams\
@@ -29,6 +27,10 @@ What are my core skills? 🎯
 ✔ Experience in creating and supporting SaaS solutions
 
 ---
+
+Who am I?
+
+I speak Data Structures & Algorithms, English, German, Russian and Chinese.
 
 I am fluent in TypeScript for Node.js/Nest/Express/Fastify and React/Next.js, Angular/Universal, Vue.js/Nuxt.js, Svelt/Kit.
 Python for Django/Flask/FastAPI. Go for gin/echo. Ruby for RoR. Java for Spring.
