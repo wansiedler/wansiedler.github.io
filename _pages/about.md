@@ -19,7 +19,7 @@ Hi there, I'm Alex 👋 (<a href="https://wansiedler.com/cv">my CV</a> and <a hr
 
 I speak Data Structures & Algorithms, English, German, Russian and some Chinese.
 
-I am fluent in TypeScript for Node.js/Nest/Express/Fastify and React/Next.js/Angular/Universal, Vue.js/Nuxt.js, Svelt/Kit.
+I am fluent in TypeScript for Node.js/Nest/Express/Fastify and React/Next.js, Angular/Universal, Vue.js/Nuxt.js, Svelt/Kit.
 Python for Django/Flask/FastAPI. Go for gin/echo. Ruby for RoR. Java for Spring.
 
 I also speak Rust for:
@@ -170,9 +170,8 @@ and lead teams to do the same.
 
 <br/>
 
-[//]: # '<a href="https://github.com/wansiedler" rel="external nofollow noopener" target="_blank"><img class="repo-img-dark w-100" alt="wansiedler" src="https://github-readme-stats.vercel.app/api/?username=wansiedler&theme=dark&show_icons=true"></a>'
-[//]: # '<img class="repo-img-dark w-100" alt="wansiedler" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wansiedler&theme=dark&layout=compact">'
-[//]: # '<a href="https://leetcode.com/u/wansiedler/" rel="external nofollow noopener" target="_blank"></a>'
+[//]: # ('<a href="https://github.com/wansiedler" rel="external nofollow noopener" target="_blank"><img class="repo-img-dark w-100" alt="wansiedler" src="https://github-readme-stats.vercel.app/api/?username=wansiedler&theme=dark&show_icons=true"></a>')
+[//]: # ('<img class="repo-img-dark w-100" alt="wansiedler" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wansiedler&theme=dark&layout=compact">')
 
 <img class="repo-img-dark" alt="wansiedler" style="display:block;margin: 0 auto;max-width: 75%;" src="https://leetcard.jacoblin.cool/wansiedler?theme=dark&font=Inter&ext=activity">
 <br/>
