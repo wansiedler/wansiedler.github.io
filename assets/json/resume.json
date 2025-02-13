@@ -114,7 +114,7 @@
       "name": "Ippen Digital Media GmbH",
       "position": "Senior Full Stack Software Engineer",
       "url": "https://www.ippen-digital.de/unternehmen/",
-      "startDate": "2021-01-01",
+      "startDate": "2021-02-01",
       "summary": "Lead development for zero-party data collection and big data applications, building scalable microservices, enhancing data pipelines, and integrating frontend frameworks.",
       "highlights": [
         "Architected and implemented a scalable elastic microservices-based backend and frontend system for the zero-party data collection platform from scratch, leveraging Rust/Warp, transitioning Django to FastAPI/SQLAlchemy, and Node.js with Express/Sequelize to Fastify/Prisma.",
@@ -132,7 +132,7 @@
       "position": "Senior Full Stack Software Engineer / DevOps",
       "url": "https://lexx-trade.com/",
       "startDate": "2018-11-01",
-      "endDate": "2021-01-01",
+      "endDate": "2021-02-01",
       "summary": "Developed and managed a high-concurrency crypto-trading platform supporting thousands of assets.",
       "highlights": [
         "Architected a trading terminal managing thousands of cryptocurrency assets, ensuring high concurrency and resilience.",
@@ -147,25 +147,26 @@
       "name": "esaveRus Ltd.",
       "position": "CTO",
       "url": "https://www.esaveag.com/",
-      "startDate": "2016-06-01",
+      "startDate": "2016-10-01",
       "endDate": "2018-10-01",
       "summary": "Led the integration of Swiss IoT street lighting systems in Russia, managing cross-functional teams and technical documentation.",
       "highlights": [
         "Oversaw hardware/software integration and deployment processes",
         "Managed server infrastructure and developed backend systems for IoT street lighting systems",
-        "Coordinated cross-functional teams and produced technical documentation"
+        "Coordinated cross-functional teams and produced technical documentation",
+        "As the CTO of eSave AG, I drive the company’s technological vision, ensuring the development of cutting-edge, scalable, and efficient solutions that empower businesses to optimize energy management and sustainability efforts. With over 20 years of experience in software engineering, system architecture, and DevOps, I specialize in designing and implementing high-performance systems that handle large-scale data processing, automation, and IoT integration.\n\nMy career has spanned leadership roles across multiple industries, including digital media, finance, and industrial IoT. Prior to joining eSave AG, I played a pivotal role in building robust infrastructures, leading agile development teams, and deploying mission-critical applications. My expertise includes TypeScript, Node.js, Python, Kubernetes, cloud-native architectures, and blockchain technologies, allowing me to drive innovation and efficiency at scale.\n\nAt eSave AG, I am committed to advancing technological excellence by fostering a culture of collaboration, mentoring engineering teams, and implementing state-of-the-art development and DevOps practices. My focus is on delivering sustainable, data-driven solutions that help our clients optimize their energy consumption, reduce costs, and achieve their environmental goals."
       ]
     },
     {
       "name": "Intaro Software",
       "position": "Senior Full Stack Software Engineer",
       "url": "https://intaro.ru/",
-      "startDate": "2009-09-01",
+      "startDate": "2004-09-01",
       "endDate": "2015-09-01",
       "summary": "Developed e-commerce platforms and backend systems, including major projects for the Russian market.",
       "highlights": [
         "Delivered dozens (sotmarket.ru, ozon.ru etc.) of Symfony/Django/RoR and jQuery/extjs based projects with e-commerce/ERC/CRM functionalities",
-        "Developed PostgreSQL module, improving data retrieval speeds by over 70%"
+        "I have been working at Intaro Software since its inception. Over the years, I progressed from a junior developer to a senior engineer and technical lead. My primary role involved designing and developing high-load systems for various clients in the fields of digital media, finance, and IoT.\n\nIntaro was one of the first integrators of Django and Node.js in the CIS market.\n\nAs a technical lead, I was responsible not only for architecture development and technology selection but also for actively mentoring and training young specialists, helping them grow and advance within the company. My experience with technologies such as JS/TS, Node.js, Python/Django, and newer frameworks enabled me to solve complex challenges.\n\nFrom the very beginning of my career, I have been engaged in developing and implementing solutions for big data analysis, business process automation, and integrating the latest technologies into corporate strategies. I have always followed AGILE principles and actively coordinated DevOps processes, implementing CI/CD pipelines and monitoring systems.\n\nI constantly strive to improve development processes, optimize infrastructure, and enhance team efficiency. I enjoy working with innovative big data solutions and building reliable, scalable, and high-performance systems. I take pride in the fact that, during my years at Intaro Software, I have made a significant contribution to the company's success and projects while becoming an expert in various technical fields."
       ]
     }
   ],
