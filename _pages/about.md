@@ -102,6 +102,8 @@ and lead teams to do the same.
 - Certified Associate in Python Programming (PCAP™)
 - Certified Entry-Level Python Programmer (PCEP™)
 
+- Oracle Certified Associate Java SE 8 Programmer
+
 ---
 
 #### I’m currently learning:
