@@ -91,6 +91,10 @@ and lead teams to do the same.
 
 #### My 🎖️ and 🏆:
 
+- Certified Kubernetes Administrator (CKA)
+- Certified Kubernetes Application Developer (CKAD)
+- Certified Kubernetes Security Specialist (CKS)
+
 - OpenJS Node.js Application Developer (JSNAD)
 - OpenJS Node.js Services Developer (JSNSD)
 
@@ -114,10 +118,6 @@ and lead teams to do the same.
 - Google Cloud Certified Associate Cloud Engineer (ACE)
 
 - Microsoft Azure Fundamentals AZ-900
-
-- Certified Kubernetes Administrator (CKA)
-- Certified Kubernetes Application Developer (CKAD)
-- Certified Kubernetes Security Specialist (CKS)
 
 ---
 
