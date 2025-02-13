@@ -116,7 +116,6 @@ and lead teams to do the same.
 - AWS Certified DevOps Engineer - Professional
 
 - Google Cloud Certified Associate Cloud Engineer (ACE)
-- Google Solution Architect
 
 ---
 
