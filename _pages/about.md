@@ -17,7 +17,7 @@ social: true # includes social icons at the bottom of the page
 
 Hi there, I'm Alex 👋 (<a href="https://wansiedler.com/cv">my CV</a> and <a href="https://linktr.ee/wansiedler">linktree</a>)
 
-I speak Data Structures & Algorithms, English, German, Russian and some Chinese.
+I speak Data Structures & Algorithms, English, German, Russian and Chinese.
 
 I am fluent in TypeScript for Node.js/Nest/Express/Fastify and React/Next.js, Angular/Universal, Vue.js/Nuxt.js, Svelt/Kit.
 Python for Django/Flask/FastAPI. Go for gin/echo. Ruby for RoR. Java for Spring.
