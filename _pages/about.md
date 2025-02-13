@@ -86,6 +86,8 @@ and lead teams to do the same.
 - Monitoring: Hands-on with Prometheus, Grafana and ELK Stack
 - Languages: German (native), English (native), Chinese (certified B1)
 
+---
+
 #### My 🎖️ and 🏆:
 
 - Certified Kubernetes Administrator (CKA)
@@ -98,6 +100,8 @@ and lead teams to do the same.
 - Certified Professional in Python Programming 1 (PCPP1™)
 - Certified Associate in Python Programming (PCAP™)
 - Certified Entry-Level Python Programmer (PCEP™)
+
+---
 
 #### I’m currently learning:
 
