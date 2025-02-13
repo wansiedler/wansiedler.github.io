@@ -172,6 +172,7 @@ and lead teams to do the same.
 
 [//]: # ('<a href="https://github.com/wansiedler" rel="external nofollow noopener" target="_blank"><img class="repo-img-dark w-100" alt="wansiedler" src="https://github-readme-stats.vercel.app/api/?username=wansiedler&theme=dark&show_icons=true"></a>')
 [//]: # ('<img class="repo-img-dark w-100" alt="wansiedler" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wansiedler&theme=dark&layout=compact">')
+[//]: # "[![WakaTime](https://github-readme-stats.vercel.app/api/wakatime?username=wansiedler)](https://github.com/wansiedler/github-readme-stats)"
 
 <img class="repo-img-dark" alt="wansiedler" style="display:block;margin: 0 auto;max-width: 75%;" src="https://leetcard.jacoblin.cool/wansiedler?theme=dark&font=Inter&ext=activity">
 <br/>
