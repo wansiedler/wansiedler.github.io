@@ -7,7 +7,7 @@ subtitle: <a href='https://github.com/wansiedler/'>We know what brought us toget
 profile:
   align: right
   image: prof_pic.jpg
-  image_circular: true # crops the image to make it circular
+  image_circular: false # crops the image to make it circular
   more_info: München
 news: false # includes a list of news items
 latest_posts: false # includes a list of the newest posts
@@ -168,7 +168,7 @@ and lead teams to do the same.
 
 ![FreeBSD](https://img.shields.io/badge/FreeBSD-%23AB2B28.svg?&style=for-the-badge&logo=freebsd&logoColor=white)
 
-<br/>
+---
 
 [//]: # "stars,commits,prs,issues,"
 [//]: # ('<a href="https://github.com/wansiedler" rel="external nofollow noopener" target="_blank"><img class="repo-img-dark w-100" alt="wansiedler" src="https://github-readme-stats.vercel.app/api/?username=wansiedler&theme=dark&show_icons=true&hide=contribs"></a>')
@@ -178,14 +178,16 @@ and lead teams to do the same.
 <img class="repo-img-dark" alt="wansiedler" style="display:block;margin: 0 auto;max-width: 75%;" src="https://leetcard.jacoblin.cool/wansiedler?theme=dark&font=Inter&ext=activity">
 <br/>
 <img class="repo-img-dark" alt="wansiedler" style="display:block;margin: 0 auto;max-width: 75%;" src="https://github-profile-trophy.vercel.app/?username=wansiedler&theme=gitdimmed&locale=en&margin-w=5&margin-h=5&no-bg=true&rank=-C&column=4">
-<br/>
+
+---
 
 <div style="margin: 0 auto;text-align: justify; display: flex; flex-direction: column; align-items: center; align-content: flex-start; justify-content: left">
-<H3>All currencies in the following chains are accepted:</H3>
+<div>All currencies in the following chains are accepted:</div>
 <div style="text-wrap: wrap;max-width:75%;word-break: break-all;overflow-wrap: break-word;">BTC bc1qcpjqk9ymzfpswekzq6huxmcxmyf8td5xyrkcmh</div>
 <div style="text-wrap: wrap;max-width:75%;word-break: break-all;overflow-wrap: break-word;">ETH/BSC/BASE/POLYGON 0xbdf6147755e03e8Ea409E6808bA66529A057F670</div>
 <div style="text-wrap: wrap;max-width:75%;word-break: break-all;overflow-wrap: break-word;">SOL 7haHrLysBuFQNmLNxfnmjTVw4mZzcHEp5e1X5YpnY5PL</div>
 </div>
 
-<br/> 
+---
+
 <img alt="You may have a screen reader, but you still got rick rolled. Yes, this is a gif of Rick Astley's famous &quot;Never Gonna Give You Up&quot;." src="https://github.com/poteto/poteto/blob/master/nice.gif?raw=true" style="max-width:75%;display: block;margin: 0 auto">
