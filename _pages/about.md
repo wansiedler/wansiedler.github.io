@@ -93,6 +93,7 @@ and lead teams to do the same.
 
 - Certified Kubernetes Administrator (CKA)
 - Certified Kubernetes Application Developer (CKAD)
+- Certified Kubernetes Security Specialist (CKS)
 
 - OpenJS Node.js Application Developer (JSNAD)
 - OpenJS Node.js Services Developer (JSNSD)
@@ -103,6 +104,19 @@ and lead teams to do the same.
 - Certified Entry-Level Python Programmer (PCEP™)
 
 - Oracle Certified Associate Java SE 8 Programmer
+
+- Certified Kubernetes Administrator (CKA)
+- Certified Kubernetes Application Developer (CKAD)
+- Certified Kubernetes Security Specialist (CKS)
+
+- AWS Certified Solutions Architect - Associate
+- AWS Certified Data Engineer - Associate
+- AWS Certified Developer - Proffessional
+- AWS Certified SysOps Administrator - Associate
+- AWS Certified DevOps Engineer - Professional
+
+- Google Cloud Certified Associate Cloud Engineer (ACE)
+- Google Solution Architect
 
 ---
 
