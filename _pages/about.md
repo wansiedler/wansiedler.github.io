@@ -41,7 +41,7 @@ I also speak Rust for:
 
 React Native/Expo, ObjC/Swift and Dart/Flutter (Kotlin in progress) are my go-to for mobile development.
 
-I am in a love/hate relationship with C/C++ and FreeBSD❤️.
+I am in a love/hate relationship with C/C++ and FreeBSD.
 When I feel particularly nerdy I code Haskell and Lisp.
 
 I am fluent in DevOps/Gitops dialects, Docker/Kubernetes/OpenStack, Ceph, OpenTelemetry, IaC and all around it.
@@ -82,17 +82,18 @@ and lead teams to do the same.
 - Certified Associate in Python Programming (PCAP™)
 - Certified Entry-Level Python Programmer (PCEP™)
 
-#### 🌱 I’m currently learning:
+#### I’m currently learning:
 
 - Computer Vision in Pytorch/Keras & opencv
 
 <div style="text-align: center;">
     <img src="https://media.giphy.com/media/NTur7XlVDUdqM/giphy.gif" width="50%" alt="this is fine" />
 </div>
- 
+
+
 ---
 
-#### My tech stack 🛠️:
+#### My 🛠️:
 
 ![WebAssembly](https://img.shields.io/badge/WebAssembly-654FF0?style=for-the-badge&logo=webassembly&logoColor=white)
 ![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white)
@@ -190,4 +191,4 @@ and lead teams to do the same.
 
 ---
 
-<img alt="You may have a screen reader, but you still got rick rolled. Yes, this is a gif of Rick Astley's famous &quot;Never Gonna Give You Up&quot;." src="https://github.com/poteto/poteto/blob/master/nice.gif?raw=true" style="max-width:75%;display: block;margin: 0 auto">
+[//]: # (<img alt="You may have a screen reader, but you still got rick rolled. Yes, this is a gif of Rick Astley's famous "Never Gonna Give You Up"." src="https://github.com/poteto/poteto/blob/master/nice.gif?raw=true" style="max-width:75%;display: block;margin: 0 auto">)
