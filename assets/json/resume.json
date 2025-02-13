@@ -117,7 +117,7 @@
       "startDate": "2021-02-01",
       "summary": "Lead development for zero-party data collection and big data applications, building scalable microservices, enhancing data pipelines, and integrating frontend frameworks.",
       "highlights": [
-        "Architected and implemented a scalable elastic microservices-based backend and frontend system for the zero-party data collection platform from scratch, leveraging Rust/Warp, transitioning Django to FastAPI/SQLAlchemy, and Node.js with Express/Sequelize to Fastify/Prisma.",
+        "Architected and implemented a scalable elastic microservices-based backend and frontend system for the zero-party data collection platform from scratch, leveraging Node.js with Express/Sequelize to Fastify/Prisma, transitioning Django to FastAPI/SQLAlchemy, and Rust/Warp.",
         "Utilized ElasticSearch, S3, Apache Kafka, PostgreSQL, and Redis for optimized backend solutions.",
         "Designed and managed Kubernetes clusters on AWS ensuring high availability, security, and scalability.",
         "Developed CI/CD pipelines with GitLab CI/CD, Docker, and Kubernetes, automating application deployments optimized for agile workflow.",
