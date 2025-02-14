@@ -231,7 +231,5 @@ and lead teams to do the same.
 <!-- my-badges start -->
 <!-- my-badges end -->
 
-[![Dependency Status](http://img.shields.io/gemnasium/wansiedler/wansiedler.github.io.svg?style=flat-square)](https://gemnasium.com/wansiedler/wansiedler.github.io)
-[![Code Climate](http://img.shields.io/codeclimate/github/wansiedler/wansiedler.github.io.svg?style=flat-square)](https://codeclimate.com/github/wansiedler/wansiedler.github.io)
 [![License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)](http://wansiedler.mit-license.org)
 [![stable](http://badges.github.io/stability-badges/dist/stable.svg)](http://github.com/badges/stability-badges)
