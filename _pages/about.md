@@ -227,3 +227,6 @@ and lead teams to do the same.
 ---
 
 [//]: # '<img alt="Never Gonna Give You Up" src="https://github.com/poteto/poteto/blob/master/nice.gif?raw=true" style="max-width:15%;display: block;margin: 0 auto">!'
+
+<!-- my-badges start -->
+<!-- my-badges end -->
