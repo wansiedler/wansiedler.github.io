@@ -19,7 +19,7 @@ Hi there, I'm Alex 👋 (<a href="https://wansiedler.com/cv">my CV</a> and <a hr
 
 What are my core skills? 🎯
 
-✔ 20+ years in C/JS/PHP/Python/Ruby/SQL, 10+ in TS/Node.js, 7+ in Rust/Solidity, 8+ in Go \
+✔ 13+ years in TS/Node.js, 7+ in Rust/Solidity, 8+ in Go, 20+ in JS/Python/Ruby/PHP/SQL/C/ \
 ✔ Extensive experience in microservices/monoliths, APIs (REST/GraphQL/WebSockets), profiling&optimisation, Unit/regression/E2E-testing\
 ✔ 10+ Years of managing Infrastructure as Code (Terraform/Ansible) within AWS/GCP/Azure \
 ✔ Mentorship/Codereview/Techleading/Projectmanagement\
