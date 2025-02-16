@@ -17,7 +17,7 @@ social: true # includes social icons at the bottom of the page
 
 Hi there, I'm Alex 👋 (<a href="https://wansiedler.com/cv">my CV</a> and <a href="https://linktr.ee/wansiedler">linktree</a>)
 
-What are my core skills? 🎯
+### What are my core skills? 🎯
 
 ✔ 13+ years in TS/Node.js, 7+ in Rust/Solidity, 8+ in Go, 20+ in Python/Ruby/JS/PHP/SQL/C/C++ \
 ✔ Extensive experience in microservices/monoliths, APIs (REST/GraphQL/WebSockets), profiling&optimisation, Unit/regression/E2E-testing\
@@ -29,7 +29,7 @@ What are my core skills? 🎯
 
 ---
 
-Who am I?
+### Who do I do?
 
 I speak Data Structures & Algorithms, English, German, Russian and Chinese.
 
@@ -62,6 +62,8 @@ I am fluent in DevOps/Gitops dialects, Docker/Kubernetes/OpenStack, Ceph, OpenTe
 I enjoy working with Terraform & Ansible in AWS and GCP environments.
 
 ---
+
+### Who am I?
 
 I am a developer, technical consultant and ex-CTO with over 20 years of progressively challenging technical successes
 in diversified, cutting-edge technologies with demonstrated and proven ability to organize, train and lead cross-functional teams in achieving superior results, making me a team player and a leader with a strong sense of responsibility.
