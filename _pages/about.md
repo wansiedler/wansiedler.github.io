@@ -236,3 +236,4 @@ and lead teams to do the same.
 [![License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)](http://wansiedler.mit-license.org)
 [![stable](http://badges.github.io/stability-badges/dist/stable.svg)](http://github.com/badges/stability-badges)
 <a rel="me" href="https://masto.nu/@wansiedler">Mastodon</a>
+<a rel="me" href="https://mastodon.social/@wansiedler">Mastodon</a>
