@@ -97,6 +97,10 @@ and lead teams to do the same.
 - Certified Kubernetes Application Developer (CKAD)
 - Certified Kubernetes Security Specialist (CKS)
 
+- RHCSA (Red Hat Certified System Administrator)
+- RHCE (Red Hat Certified Engineer)
+- Red Hat Certified Specialist in Ansible Automation
+
 - OpenJS Node.js Application Developer (JSNAD)
 - OpenJS Node.js Services Developer (JSNSD)
 
