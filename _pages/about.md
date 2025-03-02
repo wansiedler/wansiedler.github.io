@@ -34,7 +34,7 @@ Hi there, I'm Alex 👋 (<a href="https://wansiedler.com/cv">my CV</a> and <a hr
 I speak Data Structures & Algorithms, English, German, Russian and Chinese.
 
 I am fluent in TypeScript for Node.js/Nest/Express/Fastify and React/Next.js, Angular/Universal, Vue.js/Nuxt.js, Svelt/Kit.
-Python for Django/Flask/FastAPI. Go for gin/echo with gRPC. Ruby for RoR. Java for Spring/Groovy with Grails.
+Python for Django/Flask/FastAPI. Go for gin/echo with gRPC. Ruby for RoR. Java for Spring/Micronaut, Groovy with Grails (sigh).
 
 I also speak Rust for:
 
