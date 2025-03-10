@@ -20,7 +20,7 @@ Hi there, I'm Alex 👋 (<a href="https://wansiedler.com/cv">my CV</a> and <a hr
 ### What are my core skills? 🎯
 
 ✔ 13+ years in TS/Node.js, 7+ in Rust/Solidity, 20+ in Python, 8+ in Go, Ruby/JS/PHP/SQL/C/C++ since 2003 \
-✔ Extensive experience in microservices/monoliths, APIs (REST/GraphQL/WebSockets), profiling&optimisation, Unit/regression/E2E-testing\
+✔ Extensive experience in microservices/monoliths, APIs (RPC/GraphQL/REST/WebSockets), profiling&optimisation, Unit/regression/E2E-testing\
 ✔ 10+ Years of managing Infrastructure as Code (Terraform/Ansible) within AWS/GCP/Azure \
 ✔ Mentorship/Codereview/Techleading/Projectmanagement\
 ✔ Adapting Agile/Scrum/Kanban for cross-functional teams\
@@ -136,7 +136,6 @@ and lead teams to do the same.
 
 #### My 🛠️:
 
-![WebAssembly](https://img.shields.io/badge/WebAssembly-654FF0?style=for-the-badge&logo=webassembly&logoColor=white)
 ![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white)
 ![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
 ![Vyper](https://img.shields.io/badge/Vyper-2E2E2E?style=for-the-badge&logo=ethereum&logoColor=white)
@@ -210,6 +209,77 @@ and lead teams to do the same.
 
 ![FreeBSD](https://img.shields.io/badge/FreeBSD-%23AB2B28.svg?&style=for-the-badge&logo=freebsd&logoColor=white)
 
+## 🖥️ Operating Systems
+
+![FreeBSD](https://img.shields.io/badge/FreeBSD-%23AB2B28.svg?&style=for-the-badge&logo=freebsd&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![Debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)
+![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
+
+## 🖥️ Languages & Web Technologies
+
+![WebAssembly](https://img.shields.io/badge/WebAssembly-654FF0?style=for-the-badge&logo=webassembly&logoColor=white)
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?&style=for-the-badge&logo=openjdk&logoColor=white)
+![Groovy](https://img.shields.io/badge/Groovy-4298B8?style=for-the-badge&logo=apache-groovy&logoColor=white)
+![Lua](https://img.shields.io/badge/Lua-%23006BB6.svg?&style=for-the-badge&logo=lua&logoColor=white)
+![Deno](https://img.shields.io/badge/Deno-000000?style=for-the-badge&logo=deno&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-%23000000.svg?&style=for-the-badge&logo=rust&logoColor=white)
+![Haskell](https://img.shields.io/badge/Haskell-%235D4F85.svg?&style=for-the-badge&logo=haskell&logoColor=white)
+![Lisp](https://img.shields.io/badge/Lisp-%23E60087.svg?&style=for-the-badge&logo=lisp&logoColor=white)
+![C](https://img.shields.io/badge/C-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&logoColor=white)
+
+## 🎨 Frontend Development
+
+![Svelte](https://img.shields.io/badge/Svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=white)
+![React](https://img.shields.io/badge/React-%23282c34.svg?&style=for-the-badge&logo=react&logoColor=%2361dafb)
+![Next.js](https://img.shields.io/badge/Next.js-%23000000.svg?&style=for-the-badge&logo=next.js&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-%2335495e.svg?&style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
+![Nuxt.js](https://img.shields.io/badge/Nuxt.js-%2300C58E.svg?&style=for-the-badge&logo=nuxtdotjs&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-%23DD0031.svg?&style=for-the-badge&logo=angular&logoColor=white)
+
+## ⚙️ Backend Development
+
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![Django](https://img.shields.io/badge/Django-%230c4b33.svg?&style=for-the-badge&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-%23000.svg?&style=for-the-badge&logo=flask&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Celery](https://img.shields.io/badge/Celery-%2337814A.svg?&style=for-the-badge&logo=celery&logoColor=white)
+
+## 🔗 Blockchain / Web3
+
+![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white)
+![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
+
+## 📊 Databases & Message Brokers
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-%23DC382D.svg?&style=for-the-badge&logo=redis&logoColor=white)
+
+## 🏗 Infrastructure & DevOps
+
+![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?&style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-%23326CE5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white)
+
+## 🔑 Security & Monitoring
+
+![Elastic Search](https://img.shields.io/badge/Elastic_Search-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-%23F46800.svg?&style=for-the-badge&logo=grafana&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-%23E6522C.svg?&style=for-the-badge&logo=prometheus&logoColor=white)
+
+## 🎖️ Certifications
+
+![Certified Kubernetes Administrator](https://img.shields.io/badge/Certified_Kubernetes_Administrator-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![AWS Certified Solutions Architect](https://img.shields.io/badge/AWS_Certified_Solutions_Architect-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+
+## 💡 AI / ML / Data Science
+
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+
 ---
 
 [//]: # "stars,commits,prs,issues,"
@@ -234,10 +304,8 @@ and lead teams to do the same.
 
 [//]: # '<img alt="Never Gonna Give You Up" src="https://github.com/poteto/poteto/blob/master/nice.gif?raw=true" style="max-width:15%;display: block;margin: 0 auto">!'
 
-<!-- my-badges start -->
-<!-- my-badges end -->
-
 [![License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)](http://wansiedler.mit-license.org)
 [![stable](http://badges.github.io/stability-badges/dist/stable.svg)](http://github.com/badges/stability-badges)
-<a rel="me" href="https://masto.nu/@wansiedler">Mastodon</a>
-<a rel="me" href="https://mastodon.social/@wansiedler">Mastodon</a>
+
+[//]: # '<a rel="me" href="https://masto.nu/@wansiedler">Mastodon</a>'
+[//]: # '<a rel="me" href="https://mastodon.social/@wansiedler">Mastodon</a>'

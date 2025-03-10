@@ -122,9 +122,9 @@
         "Designed and managed Kubernetes clusters on AWS ensuring high availability, security, and scalability.",
         "Developed CI/CD pipelines with GitLab CI/CD, Docker, and Kubernetes, automating application deployments optimized for agile workflow.",
         "Monitored systems with Prometheus and Grafana.",
-        "Integrated ArgoCD to streamline GitOps workflows, ensuring seamless application lifecycle management within Kanban.",
+        "Integrated ArgoCD/FluxCD to streamline GitOps workflows, ensuring seamless application lifecycle management within Kanban.",
         "Built and optimized frontend applications using TypeScript with React, React Query, Next.js, Material UI, and Chakra UI.",
-        "Integrated Preact/Vite, Solid.js, TDD (Jest, Loki, Cypress, Playwright), and Redux with sagas for state management."
+        "Integrated Preact/Vite, Solid.js, TDD (Jest, Loki, Cypress, Playwright), and Redux with sagas for state management. Angular/Universal with RxJS "
       ]
     },
     {
