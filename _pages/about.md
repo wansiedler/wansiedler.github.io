@@ -87,7 +87,6 @@ and lead teams to do the same.
 - CI/CD Expertise: GitLab CI/CD, Jenkins and GitLab/GitHub Actions
 - Cloud Platforms: Extensive experience with AWS, GCP and Azure
 - Monitoring: Hands-on with Prometheus, Grafana and ELK Stack
-- Languages: German (native), English (native), Chinese (certified B1)
 
 ---
 
