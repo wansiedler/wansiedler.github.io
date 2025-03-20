@@ -124,7 +124,7 @@ and lead teams to do the same.
 ---
 
 #### I’m currently learning:
-
+- JAX/Tensorflow
 - Computer Vision in Pytorch/Keras & opencv
 
 <div style="text-align: center;">
