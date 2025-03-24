@@ -34,7 +34,7 @@ Hi there, I'm Alex 👋 (<a href="https://wansiedler.com/cv">my CV</a> and <a hr
 I speak Data Structures & Algorithms, English, German, Russian and Chinese.
 
 I am fluent in TypeScript for Node.js/Nest/Express/Fastify and React/Next.js, Angular/Universal, Vue.js/Nuxt.js, Svelt/Kit.
-Python for Django/Flask/FastAPI. Go Fiber for gRPC. Ruby for RoR. Java for Spring Boot/Micronaut with Hibernate/jOOQ, Groovy with Grails (sigh).
+Python for Django/Flask/FastAPI. Go Fiber for gRPC. Ruby for RoR. Java for Spring Boot/Micronaut, Groovy with Grails.
 
 I also speak Rust for:
 
@@ -79,7 +79,7 @@ and lead teams to do the same.
 - TypeScript with Node.js Express/Nest.js/fastify with Sequelize/Prisma/TypeORM/Drizzle,
 - Ethers.js with React(Solid.js, Redux, Zustand)+Next/Angular (NgRx)/Vue.js(Vuex, Pinia)/Quasar, TDD (with jest, cypress, playwright)
 - Python with FastAPI/Django/Flask, Celery, and SQLAlchemy
-- Golang with Gin/Echo, PHP in Symfony/Laravel/Zend
+- Golang with Gin/Echo/Fiber, PHP in Symfony/Laravel/Zend
 - Apache Hadoop/Apache Kafka, Redis/RabbitMQ, PostgreSQL/MySQL, ElasticSearch, MongoDB, S3, Firebase, GraphQL
 - Kubernetes: Advanced cluster design, monitoring and troubleshooting
 - DevOps/GitOps Tools: ArgoCD, Flux and automated deployment strategies
