@@ -39,7 +39,7 @@ Python for Django/Flask/FastAPI. Go Fiber for gRPC. Ruby for RoR. Java for Sprin
 I also speak Rust for:
 
 - WebAssembly
-- Warp / Actix / Rocket
+- Leptos / Warp / Actix / Rocket
 - Ethereum with openzeppelin (Solidity/Vyper, foundry/truffle/hardhat):
   - Arbitrum with stylus
   - Reth for L2 Optimism / Polygon / Binance Smart Chain / StarkNet etc.
