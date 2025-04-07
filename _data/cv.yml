@@ -31,10 +31,19 @@
 - title: Work Experience
   type: time_table
   contents:
+    - title: Senior Full-Stack/DevOps
+      institution: Navflex
+      url: http://navflex.com
+      year: 2025
+    #      description:
+    #        - Lead development for zero-party data collection and big data applications.
+    #        - Backend: Transitioned from Django to FastAPI, Node.js with Express/Sequelize to Prisma; utilized ElasticSearch, S3, Docker, GitLab CI/CD, Apache Kafka, and Kubernetes on AWS.
+    #        - Frontend: Built and optimized applications using TypeScript, React, Next.js, and Chakra UI, with TDD.
+
     - title: Senior Full Stack Software Engineer / DevOps
       institution: Ippen Digital Media GmbH
       url: https://www.ippen-digital.de/unternehmen/
-      year: 2021 - Present
+      year: 2021 - 2025
       description:
         - Lead development for zero-party data collection and big data applications.
         - Backend: Transitioned from Django to FastAPI, Node.js with Express/Sequelize to Prisma; utilized ElasticSearch, S3, Docker, GitLab CI/CD, Apache Kafka, and Kubernetes on AWS.
