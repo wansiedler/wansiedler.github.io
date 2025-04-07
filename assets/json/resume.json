@@ -111,10 +111,19 @@
   ],
   "work": [
     {
+      "name": "Navflex",
+      "position": "Senior Full-Stack / DevOps",
+      "url": "https://www.navflex.com/",
+      "startDate": "2025-04-01",
+      "summary": "",
+      "highlights": []
+    },
+    {
       "name": "Ippen Digital Media GmbH",
       "position": "Senior Full Stack Software Engineer / DevOps",
       "url": "https://www.ippen-digital.de/unternehmen/",
       "startDate": "2021-02-01",
+      "endDate": "2025-03-31",
       "summary": "Lead development for zero-party data collection and big data applications, building scalable microservices, enhancing data pipelines, and integrating frontend frameworks.",
       "highlights": [
         "Architected and implemented a scalable elastic microservices-based backend and frontend system for the zero-party data collection platform from scratch, leveraging Node.js with transitioning from Express/Sequelize to Fastify/Prisma, transitioning Django to FastAPI/SQLAlchemy, and Rust/Warp.",
