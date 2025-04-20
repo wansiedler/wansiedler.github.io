@@ -19,10 +19,10 @@ Hi there, I'm Alex 👋 (<a href="https://linktr.ee/wansiedler">linktree</a>)
 
 ### What are my core skills? 🎯
 
-✔ 13+ years in TS/Node.js (JS since 2001),
-✔ 8+ in Go,
-✔ 7+ in Rust/Solidity,
-✔ 20+ in Python,
+✔ 13+ years in TS/Node.js (JS since 2001), \
+✔ 8+ in Go, \
+✔ 7+ in Rust/Solidity, \
+✔ 20+ in Python, \
 ✔ PHP/SQL/C/C++ since 2003 \
 ✔ Extensive experience in microservices/monoliths, APIs (RPC/GraphQL/REST/WebSockets), profiling&optimisation, Unit/regression/E2E-testing\
 ✔ 10+ Years of managing Infrastructure as Code (Terraform/Ansible) within AWS/GCP/Azure \
