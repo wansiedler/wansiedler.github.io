@@ -1,7 +1,7 @@
 ---
 layout: about
 title: Senior Python Backend Engineer
-permalink: /
+permalink: /python
 subtitle: <a href='https://github.com/wansiedler/'>We know what brought us together.</a>
 
 profile:
