@@ -1,7 +1,7 @@
 ---
 layout: about
 title: Senior Full Stack / Web3 / GitOps Engineer
-permalink: /node
+permalink: /node/
 subtitle: <a href='https://github.com/wansiedler/'>We know what brought us together.</a>
 
 profile:

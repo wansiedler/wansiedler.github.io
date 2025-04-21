@@ -1,7 +1,7 @@
 ---
 layout: about
 title: Senior Go Engineer
-permalink: /go
+permalink: /go/
 subtitle: <a href='https://github.com/wansiedler/'>We know what brought us together.</a>
 
 profile:
