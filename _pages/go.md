@@ -1,6 +1,6 @@
 ---
-layout: go
-title: go
+layout: about
+title: Senior Go Engineer
 permalink: /
 subtitle: <a href='https://github.com/wansiedler/'>We know what brought us together.</a>
 

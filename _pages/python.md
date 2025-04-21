@@ -1,6 +1,6 @@
 ---
-layout: python
-title: python
+layout: about
+title: Senior Python Backend Engineer
 permalink: /
 subtitle: <a href='https://github.com/wansiedler/'>We know what brought us together.</a>
 
