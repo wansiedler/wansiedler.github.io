@@ -1,6 +1,6 @@
 ---
 layout: about
-title: Старший инженер-программист Go
+title: Middle+ инженер-программист Go
 permalink: /go/rus
 subtitle: <div>📍 Москва/Мюнхен | ✉️ alexander@wansiedler.com | 📱 +49 176 241 64 141  |  <a href='https://linktr.ee/wansiedler'>linkedin</a> | 🔗 <a href='https://linktr.ee/wansiedler'>my linktree</a></div>
 profile:
@@ -16,7 +16,7 @@ social: true # includes social icons at the bottom of the page
 
 ---
 
-# Старший инженер-программист Go
+# Middle+ инженер-программист Go
 
 ### 🧑‍💻 Опыт работы — 5 лет
 
