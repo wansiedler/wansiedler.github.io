@@ -2,8 +2,7 @@
 layout: about
 title: Senior Full Stack / Web3 / GitOps Engineer
 permalink: /node/
-subtitle: <a href='https://github.com/wansiedler/'>We know what brought us together.</a>
-
+subtitle: <div>📍 Munich, Germany | ✉️ alexander@wansiedler.com | 📱 +49 176 241 64 141  |  <a href='https://linktr.ee/wansiedler'>linkedin</a> | 🔗 <a href='https://linktr.ee/wansiedler'>my linktree</a></div>
 profile:
   align: right
   image: prof_pic.jpg
@@ -17,9 +16,7 @@ social: true # includes social icons at the bottom of the page
 
 # Alexander Paul Wansiedler
 
-**Senior Full Stack / Web3 / GitOps Engineer**  
-📍 Munich, Germany | ✉️ alexander@wansiedler.com | 🔗 [linkedin.com/in/wansiedler](https://linkedin.com/in/wansiedler) | 📱 +49 176 241 64 141  
-🔗 [linktr.ee/wansiedler](https://linktr.ee/wansiedler)
+**Senior Full Stack / Web3 / GitOps Engineer**
 
 ---
 

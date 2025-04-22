@@ -2,8 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='https://github.com/wansiedler/'>We know what brought us together.</a>
-
+subtitle: <div>📍 Munich, Germany | ✉️ alexander@wansiedler.com | 📱 +49 176 241 64 141  |  <a href='https://linktr.ee/wansiedler'>linkedin</a> | 🔗 <a href='https://linktr.ee/wansiedler'>my linktree</a></div>
 profile:
   align: right
   image: prof_pic.jpg
@@ -15,7 +14,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Hi there, I'm Alex 👋 (<a href="https://linktr.ee/wansiedler">linktree</a>)
+---
 
 ### What are my core skills? 🎯
 

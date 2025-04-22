@@ -2,8 +2,7 @@
 layout: about
 title: Senior Python Backend Engineer
 permalink: /python/
-subtitle: <a href='https://github.com/wansiedler/'>We know what brought us together.</a>
-
+subtitle: <div>📍 Munich, Germany | ✉️ alexander@wansiedler.com | 📱 +49 176 241 64 141  |  <a href='https://linktr.ee/wansiedler'>linkedin</a> | 🔗 <a href='https://linktr.ee/wansiedler'>my linktree</a></div>
 profile:
   align: right
   image: prof_pic.jpg
