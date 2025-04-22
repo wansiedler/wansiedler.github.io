@@ -18,10 +18,6 @@ social: true # includes social icons at the bottom of the page
 
 # Senior Full Stack / Web3 Engineer
 
----
-
-## 💼 Professional Summary
-
 Results-driven **Senior Full-Stack/Web3/GitOps Engineer** with over **20 years** of experience in software engineering, DevOps, and system architecture across industries including **digital media, finance, and IoT**.  
 Specializing in:
 

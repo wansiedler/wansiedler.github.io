@@ -18,8 +18,6 @@ social: true # includes social icons at the bottom of the page
 
 # Senior Go Engineer
 
----
-
 Im in love/hate relationship with Go and K8s.
 
 I am a **Senior Go Engineer** with many years of experience in developing high-load, fault-tolerant, and scalable systems. My expertise spans the entire development lifecycle—from architecture design to final deployment and production support.
