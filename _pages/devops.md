@@ -14,7 +14,9 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-# Senior Python Backend Engineer
+---
+
+# Senior DevOps/GitOps/SecOps Engineer
 
 I am a **Senior Python Backend Engineer** with extensive experience in building high-load, fault-tolerant, and scalable systems. My expertise spans the full software lifecycle—from architectural design to deployment and maintenance in production environments.
 

@@ -14,9 +14,11 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Hi there, I'm Alex 👋 (<a href="https://linktr.ee/wansiedler">linktree</a>)
+---
 
 # Senior Go Engineer
+
+---
 
 Im in love/hate relationship with Go and K8s.
 

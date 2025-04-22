@@ -16,7 +16,7 @@ social: true # includes social icons at the bottom of the page
 
 ---
 
-### What are my core skills? 🎯
+# What are my core skills? 🎯
 
 ✔ 13+ years in TS/Node.js (JS since 2001), \
 ✔ 8+ in Go, \
