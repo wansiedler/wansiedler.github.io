@@ -19,7 +19,7 @@ social: true # includes social icons at the bottom of the page
 # What are my core skills? 🎯
 
 ✔ 13+ years in TS/Node.js (JS since 2001), \
-✔ 8+ in Go, \
+✔ 5+ in Go, \
 ✔ 7+ in Rust/Solidity, \
 ✔ 20+ in Python, \
 ✔ PHP/SQL/C/C++ since 2003 \
