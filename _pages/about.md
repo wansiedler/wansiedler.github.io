@@ -100,10 +100,11 @@ and lead teams to do the same.
 [//]: # "- AWS Certified Data Engineer - Associate"
 
 - AWS Certified Developer - Proffessional"
-  [//]: # "- AWS Certified SysOps Administrator - Associate"
-  [//]: # "- AWS Certified DevOps Engineer - Professional"
-  [//]: #
-  [//]: # "- Google Cloud Certified Associate Cloud Engineer (ACE)"
+
+[//]: # "- AWS Certified SysOps Administrator - Associate"
+[//]: # "- AWS Certified DevOps Engineer - Professional"
+[//]: #
+[//]: # "- Google Cloud Certified Associate Cloud Engineer (ACE)"
 
 - Microsoft Azure Fundamentals AZ-900
 
