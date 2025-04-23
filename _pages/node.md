@@ -2,7 +2,7 @@
 layout: about
 title: Senior Full Stack / Web3 / GitOps Engineer
 permalink: /node/
-subtitle: <div>📍 Munich, Germany | ✉️ alexander@wansiedler.com | 📱 +49 176 241 64 141  |  <a href='https://linktr.ee/wansiedler'>linkedin</a> | 🔗 <a href='https://linktr.ee/wansiedler'>my linktree</a></div>
+subtitle: <div>📍 Munich, Germany | ✉️ alexander@wansiedler.com | 📱 +49 176 241 64 141  | 🔗 <a href='https://linktr.ee/wansiedler'>linktree</a></div>
 profile:
   align: right
   image: prof_pic.jpg
@@ -51,20 +51,82 @@ Currently, I continue to use Node.js extensively to build **high-load APIs**, **
 
 ---
 
-## 🛠 Tech Stack
+## 📌 Selected Experience
 
-**Backend:**
+### **Senior Node.js Engineer**
 
-- Node.js (TypeScript, JavaScript): Fastify, Express, NestJS, Koa, Hapi
-- Python: FastAPI, Django, Flask
-- Rust: Warp, Rocket
-- Go: Gin, Echo
-- PHP: Symfony, Laravel
-- Databases: PostgreSQL, MySQL, MongoDB, SQLite, Redis
-- Messaging & Streams: Apache Kafka, RabbitMQ, NATS, ZeroMQ
-- ORMs: Prisma, TypeORM, Sequelize, Objection.js
-- Job Queues: BullMQ, Agenda, Bree
-- Realtime: WebSockets, uWebSockets.js, EventEmitters
+**Ippen Digital Media GmbH**, Remote 🇩🇪 — _2021–2025_
+
+- Architected high-availability APIs serving millions of requests daily using Fastify and PostgreSQL.
+- Designed and implemented complex data pipelines (Kafka + Node.js workers).
+- Introduced typed backend with full TypeScript migration.
+- Automated deployments via GitLab CI and Kubernetes.
+- Led mentoring programs and performed architectural reviews.
+
+---
+
+### **Lead Fullstack Node.js Developer**
+
+**Lexx Software Co. Ltd.**, Moscow 🇷🇺 — _2015–2021_
+
+- Built full B2B SaaS platform with Express and Vue/Nuxt frontend.
+- Scaled services using Docker and AWS Lambda (Node.js runtime).
+- Integrated Elasticsearch, Redis, and MongoDB for high-speed querying and caching.
+- Designed RBAC and authentication layers using JWT and OAuth2.
+
+---
+
+### **Backend Engineer (Node.js)**
+
+**Intaro**, Russia 🇷🇺 — _2004–2015_
+
+- Migrated legacy PHP/Java systems to Node.js microservices.
+- Created APIs for IoT devices using MQTT + Node.js backend.
+- Implemented real-time data dashboards using Socket.io and MongoDB.
+- Established team-wide code standards and CI workflows.
+
+---
+
+## 🛡️ Certifications
+
+- OpenJS Node.js Application Developer (JSNAD)
+- OpenJS Node.js Services Developer (JSNSD)
+- Certified Kubernetes Administrator (CKA)
+- Certified Kubernetes Application Developer (CKAD)
+- PCPP1™ – Certified Professional in Python Programming (bonus points 😉)
+
+---
+
+## 🌐 Languages
+
+- Russian (native)
+- English (C1-C2)
+
+---
+
+## 💡 Highlights
+
+- Node.js since v0.8 – built CLI tools before it was cool
+- TypeScript early adopter — no `any` in my kingdom
+- Deep love for clean architecture, SOLID principles, and automation
+- Experienced in leading teams and mentoring developers
+- Obsessed with performance tuning and observability
+
+---
+
+## 🧰 Core Tech Stack
+
+- **Languages:** JavaScript, TypeScript, Node.js (ESM/CJS), Bash
+- **Frameworks:** Express, Fastify, NestJS, Koa, Hapi
+- **Frontend:** React, Next.js, Vue/Nuxt (Fullstack when needed)
+- **Databases:** PostgreSQL, MongoDB, Redis, SQLite, ClickHouse
+- **DevOps:** Docker, Kubernetes, GitLab CI/CD, AWS CDK, Terraform
+- **Monitoring:** Prometheus, Grafana, Loki, OpenTelemetry, Jaeger
+- **Testing:** Jest, Vitest, Supertest, Cypress, Playwright
+- **Messaging:** Kafka, RabbitMQ, WebSockets
+- **Security:** OAuth2, JWT, Passport.js, OWASP practices
+
+---
 
 **Frontend:**
 
@@ -98,21 +160,14 @@ Moscow State Linguistic University | 09.2012 – 11.2016
 
 ---
 
-## 🌍 Languages
+## 👨‍💻 Profile
 
-- German 🇩🇪 (native)
-- English 🇬🇧 (native)
-- Russian 🇷🇺 (native)
-- Chinese 🇨🇳 (B1 certified)
-- French, Italian, Spanish (spoken)
+Seasoned backend and full-stack developer with 15+ years of experience architecting, building, and deploying scalable Node.js applications. From real-time systems to APIs, microservices to serverless functions, I’ve seen Node evolve and grown with it. I lead teams, optimize CI/CD pipelines, and embrace performance, security, and developer joy. Passionate about open source, typed codebases, and modular architecture.
 
 ---
 
-## 📞 Let’s Connect
+## 💬 Motto
 
-Email: [alexander@wansiedler.com](mailto:alexander@wansiedler.com)  
-Phone: +49 176 241 64 141  
-Portfolio: [wansiedler.com](http://wansiedler.com)  
-Links: [linktr.ee/wansiedler](https://linktr.ee/wansiedler)
+> "If it runs in Node, I can scale it."
 
 ---

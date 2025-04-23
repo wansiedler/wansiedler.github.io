@@ -2,7 +2,7 @@
 layout: about
 title: Senior Go Engineer
 permalink: /go/
-subtitle: <div>📍 Munich, Germany | ✉️ alexander@wansiedler.com | 📱 +49 176 241 64 141  |  <a href='https://linktr.ee/wansiedler'>linkedin</a> | 🔗 <a href='https://linktr.ee/wansiedler'>my linktree</a></div>
+subtitle: <div>📍 Munich, Germany | ✉️ alexander@wansiedler.com | 📱 +49 176 241 64 141  | 🔗 <a href='https://linktr.ee/wansiedler'>linktree</a></div>
 profile:
   align: right
   image: prof_pic.jpg

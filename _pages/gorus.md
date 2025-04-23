@@ -2,7 +2,7 @@
 layout: about
 title: Middle+ Engineer Go
 permalink: /go/rus
-subtitle: <div>📍 Москва/Мюнхен | ✉️ alexander@wansiedler.com | 📱 +49 176 241 64 141  |  <a href='https://linktr.ee/wansiedler'>linkedin</a> | 🔗 <a href='https://linktr.ee/wansiedler'>my linktree</a></div>
+subtitle: <div>📍 Москва/Мюнхен | ✉️ alexander@wansiedler.com | 📱 +49 176 241 64 141  |  <a href='https://linktr.ee/wansiedler'>linkedin</a> | 🔗 <a href='https://linktr.ee/wansiedler'>linktree</a></div>
 profile:
   align: right
   image: prof_pic.jpg
