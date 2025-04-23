@@ -37,29 +37,11 @@ social: true # includes social icons at the bottom of the page
 I speak Data Structures & Algorithms, English, German, Russian and Chinese.
 
 I am fluent in TypeScript for Node.js/Nest/Express/Fastify and React/Next.js, Angular/Universal, Vue.js/Nuxt.js, Svelt/Kit.
-Python for Django/Flask/FastAPI. Go Fiber for gRPC. Ruby for RoR. Java for Spring Boot/Micronaut, Groovy with Grails.
-
-I also speak Rust for:
-
-- WebAssembly
-- Leptos / Warp / Actix / Rocket
-- Ethereum with openzeppelin (Solidity/Vyper, foundry/truffle/hardhat):
-  - Arbitrum with stylus
-  - Reth for L2 Optimism / Polygon / Binance Smart Chain / StarkNet etc.
-- Solana (with mucho, anchor, fuzz, zest)
-- Aptos (move SDK)
-- SUI
-- Fantom
-- Flow
-- Near
-- Polkadot
-- TON (Telegram Open Network)
-- extensive expertise in Telegram bots programming
-
-React Native/Expo, ObjC/Swift and Dart/Flutter (Kotlin in progress) are my go-to for mobile development.
-
-I am in a love/hate relationship with C/C++ and FreeBSD.
-When I feel particularly nerdy I code Haskell and Lisp.
+Python for Django/Flask/FastAPI.
+Go Fiber for gRPC.
+Java for Spring Boot/Micronaut, Groovy with Grails.
+Ruby for RoR.
+PHP for Symfony.
 
 I am fluent in DevOps/Gitops dialects, Docker/Kubernetes/OpenStack, Ceph, OpenTelemetry, IaC and all around it.
 I enjoy working with Terraform & Ansible in AWS and GCP environments.
@@ -116,11 +98,12 @@ and lead teams to do the same.
 [//]: # "- Certified Kubernetes Security Specialist (CKS)"
 [//]: # "- AWS Certified Solutions Architect - Associate"
 [//]: # "- AWS Certified Data Engineer - Associate"
-[//]: # "- AWS Certified Developer - Proffessional"
-[//]: # "- AWS Certified SysOps Administrator - Associate"
-[//]: # "- AWS Certified DevOps Engineer - Professional"
-[//]: #
-[//]: # "- Google Cloud Certified Associate Cloud Engineer (ACE)"
+
+- AWS Certified Developer - Proffessional"
+  [//]: # "- AWS Certified SysOps Administrator - Associate"
+  [//]: # "- AWS Certified DevOps Engineer - Professional"
+  [//]: #
+  [//]: # "- Google Cloud Certified Associate Cloud Engineer (ACE)"
 
 - Microsoft Azure Fundamentals AZ-900
 

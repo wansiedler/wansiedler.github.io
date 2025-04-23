@@ -14,7 +14,4 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
----
-
-I am in a love/hate relationship with C/C++ and FreeBSD.
-When I feel particularly nerdy I code Haskell and Lisp.
+React Native/Expo, ObjC/Swift and Dart/Flutter (Kotlin in progress) are my go-to for mobile development.
