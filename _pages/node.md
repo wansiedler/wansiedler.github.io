@@ -40,7 +40,7 @@ In early projects, I utilized **Express.js**, integrating databases like **Mongo
 
 As the ecosystem matured, I embraced modern frameworks and tooling:
 
-- Adopted **Koa.js** and **NestJS** for more structured backend applications
+- Adopted **Express.js**, **Next.js** and **NestJS** for more structured backend applications
 - Designed resilient **microservices** with **Fastify** and **Prisma**
 - Architected systems using **GraphQL** (Apollo, Mercurius), **gRPC**, and **WebSockets** (Socket.IO, uWebSockets.js)
 - Leveraged tools like **BullMQ**, **Bree**, and **Agenda** for job queues

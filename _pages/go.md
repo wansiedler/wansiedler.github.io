@@ -14,8 +14,6 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
----
-
 # Senior Go Engineer
 
 Im in love/hate relationship with Go and K8s.
