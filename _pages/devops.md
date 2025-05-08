@@ -14,7 +14,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-# Alexander Wansiedler – DevOps | GitOps | SecOps Architect
+# DevOps | GitOps | SecOps Architect
 
 > 💡 Seasoned infrastructure engineer with extensive hands-on experience in enterprise-grade automation, Kubernetes orchestration, hybrid cloud architecture, and large-scale observability.  
 > I specialize in building resilient, scalable, and secure CI/CD platforms, GitOps-first infrastructures, and developer-friendly cloud-native environments.
