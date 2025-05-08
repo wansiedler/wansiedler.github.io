@@ -1,7 +1,7 @@
 ---
 layout: about
 title: Senior Python Backend Engineer
-permalink: /devops/
+permalink: /mobile/
 subtitle: <div>📍 Munich, Germany | ✉️ alexander@wansiedler.com | 📱 +49 176 241 64 141  | 🔗 <a href='https://linktr.ee/wansiedler'>linktree</a></div>
 profile:
   align: right
