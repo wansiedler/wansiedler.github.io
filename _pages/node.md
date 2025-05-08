@@ -160,12 +160,6 @@ Moscow State Linguistic University | 09.2012 – 11.2016
 
 ---
 
-## 👨‍💻 Profile
-
-Seasoned backend and full-stack developer with 15+ years of experience architecting, building, and deploying scalable Node.js applications. From real-time systems to APIs, microservices to serverless functions, I’ve seen Node evolve and grown with it. I lead teams, optimize CI/CD pipelines, and embrace performance, security, and developer joy. Passionate about open source, typed codebases, and modular architecture.
-
----
-
 ## 💬 Motto
 
 > "If it runs in Node, I can scale it."
