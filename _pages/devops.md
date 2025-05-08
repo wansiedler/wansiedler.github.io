@@ -14,83 +14,153 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
----
+# Alexander Wansiedler – DevOps | GitOps | SecOps Architect
 
-# Senior Go Engineer
-
-Im in love/hate relationship with Go and K8s.
-
-I am a **Senior Go Engineer** with many years of experience in developing high-load, fault-tolerant, and scalable systems. My expertise spans the entire development lifecycle—from architecture design to final deployment and production support.
+> 💡 Seasoned infrastructure engineer with extensive hands-on experience in enterprise-grade automation, Kubernetes orchestration, hybrid cloud architecture, and large-scale observability.  
+> I specialize in building resilient, scalable, and secure CI/CD platforms, GitOps-first infrastructures, and developer-friendly cloud-native environments.
 
 ---
 
-## 🏗 Architecture & Backend Development
-
-I have a deep understanding of building distributed systems, microservices architecture, and high-load solutions. In my work, I actively use:
-
-- **Go (Golang)** — my primary programming language, used to build reliable, high-performance, and secure services
-- **gRPC** — for high-performance service communication, using Protobuf and well-structured API schemas
-- **REST API** — designed following best practices and documented with OpenAPI/Swagger
-- **GraphQL** — for flexible client-server interaction, including usage with `gqlgen`
+## 🔁 Version Control
+- **Git** – Foundation of everything. Deep expertise in branching strategies, monorepo vs polyrepo scaling, submodules, and GitOps synchronization.
 
 ---
 
-## 📦 Frameworks & Libraries
+## ⚙️ Infrastructure as Code
 
-I’ve worked with various frameworks and tools that accelerate development and ensure high code reliability:
+**Ansible**
+- Multi-cluster inventory workflows
+- Idempotent, modular playbooks for predictable, repeatable deployments
 
-- **Gin, Fiber** — lightweight and fast HTTP frameworks for RESTful APIs
-- **Echo, Chi** — alternatives with convenient routing and middleware support
-- **gorm, ent** — ORMs for working with databases; I also write raw SQL and optimize queries
-- **sqlc** — generates Go code based on SQL queries
-- **Wire, Fx** — DI frameworks for efficient dependency management
-- **Cobra, Viper** — for building CLI apps and flexible service configuration
+**Terraform** / **Terragrunt** / **OpenTofu**
+- Modular IaaC with DRY principles
+- Secure infrastructure deployments on AWS/GCP/Yandex.Cloud/Azure
 
----
+**Helmfile**
+- Reliable K8s Helm releases via Helmfile orchestration
 
-## 🗄 Databases & Storage
+**Pulumi**
+- Polyglot Infrastructure-as-Code with strong typing and modern SDK ergonomics
 
-I have experience with both relational and NoSQL databases:
-
-- **PostgreSQL, MySQL** — configuration, indexing, sharding, replication
-- **Redis, Memcached** — caching and streaming data processing
-- **MongoDB, ClickHouse** — for document storage and analytics
-- **BadgerDB, BoltDB** — embedded storage for high-performance solutions
+**Winglang**, **SST**
+- Infrastructure & application code fusion with developer-first experience
 
 ---
 
-## 🕸 Asynchronous Processing & Queues
+## 💻 Programming Languages
 
-I develop high-load services using message brokers and event-driven architecture:
-
-- **Kafka, NATS, RabbitMQ** — reliable inter-service message delivery
-- **Apache Pulsar, Google Pub/Sub** — event streaming in cloud and hybrid environments
-- **Temporal, Celery (Go bindings)** — workflow and distributed task management
+**Go**
+- Building scalable microservices and distributed systems
+- gRPC APIs, concurrent pipelines, instrumentation-first engineering
 
 ---
 
-## 🌍 Cloud Technologies & DevOps
+## 🌀 CI/CD Pipelines
 
-My services run in cloud environments with automated CI/CD:
-
-- **Docker, Kubernetes (K8s, K3s, OpenShift)** — containerization, orchestration, Helm charts
-- **Terraform, Pulumi** — Infrastructure as Code (IaC)
-- **AWS (Lambda, ECS, S3, RDS, DynamoDB, CloudWatch), GCP, Azure** — building cloud-native solutions
-- **GitLab CI/CD, GitHub Actions** — test and deployment automation
-- **OpenTelemetry, Prometheus, Grafana, Loki** — monitoring, logging, and tracing
+- **GitHub Actions** / **GitLab CI/CD**
+- **Octopus Deploy** – Advanced release pipelines across multi-environment production systems
 
 ---
 
-## 🔥 Optimization & Security
+## 🌱 GitOps & Immutable Infrastructure
 
-I write high-performance and secure code, following best practices:
-
-- **pprof, Go Benchmarking** — performance analysis and optimization
-- **Mutex, atomic, sync.Pool** — concurrency handling and allocation reduction
-- **OWASP, gosec** — security: protection against SQLi, XSS, CSRF, SSRF, JWT, and OAuth 2.0
+- **ArgoCD**, **FluxCD** – Git as a single source of truth for production
+- **Crossplane** – Control planes as code
+- **HashiCorp Packer** – Golden images across platforms
 
 ---
 
-## 🎯 Why Go?
+## ☸️ Kubernetes & Cloud-Native Tooling
 
-Go is more than just a programming language—it's a philosophy of simplicity, reliability, and performance. I appreciate its strict typing, built-in garbage collector, and powerful concurrency primitives. I see how Go is transforming the industry and I’m ready to build complex systems that change the game.
+- Helm / Timoni
+- OpenShift / Rancher / Deckhouse (with Flant support)
+- EKS / RDS / VPC / IAM / Identity Center / OpenSearch / ElasticCache / ECR / S3 / Aurora PG
+- Yandex.Cloud / Azure / GCP
+- OpenStack integration and KaaS deployment
+
+---
+
+## 🧱 Containers & Virtualization
+
+- Docker / Podman
+- Proxmox VE / Hyper-V
+
+---
+
+## 📡 Observability, Logging & Tracing
+
+**Logging**
+- Graylog (SIEM)
+- Loki
+- Sentry
+- Grafana OnCall + AlertManager
+
+**Tracing**
+- CNCF Jaeger
+- OpenTelemetry / SigNoz
+
+**Monitoring**
+- Prometheus Stack / VictoriaMetrics / CloudWatch / Zabbix / Dynatrace
+- Apache Airflow, Luigi (Workflow orchestration)
+- Istio / Cilium / Traefik Mesh (Service Mesh & eBPF)
+
+---
+
+## 💬 Messaging, Streaming & Databases
+
+**Relational**
+- PostgreSQL / MySQL / MS SQL
+
+**NoSQL**
+- ScyllaDB / HBase / MongoDB / BigTable / CockroachDB / YugabyteDB
+
+**Streaming & Eventing**
+- Kafka / RabbitMQ / NATS / Cassandra / Redis / ClickHouse
+
+**Distributed Storage**
+- Ceph
+- CedrusData (Trino-compatible distributed SQL)
+- Apache Doris (Real-time analytical data warehouse)
+
+---
+
+## 🔑 Key-Value & Service Discovery
+
+- etcd
+- HashiCorp Consul
+- Apache ZooKeeper
+- DynamoDB
+
+---
+
+## 🛡️ Security & Secrets Management
+
+- **trivy**, **Snyk** – Vulnerability scanning for containers and IaC
+- **SonarQube** – Continuous inspection for clean, secure code
+- **The Update Framework (TUF)** – Secure software delivery framework
+- **sealed-secrets**, **Vault** – Secure secrets injection and encryption as a service
+
+---
+
+## 🚀 Cluster Management
+
+- **Nomad** – Lightweight, high-performance workload scheduler
+- **Waypoint** – Developer workflows for building and deploying apps
+
+---
+
+## ⚖️ Proxy / Load Balancing
+
+- **Envoy Proxy** – L7 traffic routing, service discovery, observability with gRPC/HTTP2-first architecture
+
+---
+
+## 🤖 MLOps / LLMOps
+
+- **ZenML** – Production pipelines and reproducible workflows for AI/ML systems
+
+---
+
+## 💡 Philosophy
+
+I believe in infrastructure as product — continuously evolving, observable, and developer-friendly. My goal is to empower teams through automation, self-service, and security-first design, whether we're deploying microservices across continents or debugging a flaky container in dev.
