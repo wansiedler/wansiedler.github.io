@@ -16,13 +16,8 @@ social: true # includes social icons at the bottom of the page
 
 # DevOps | GitOps | SecOps Architect
 
-> 💡 Seasoned infrastructure engineer with extensive hands-on experience in enterprise-grade automation, Kubernetes orchestration, hybrid cloud architecture, and large-scale observability.  
+> 💡 Infrastructure engineer with extensive hands-on experience in enterprise-grade automation, Kubernetes orchestration, hybrid cloud architecture, and large-scale observability.  
 > I specialize in building resilient, scalable, and secure CI/CD platforms, GitOps-first infrastructures, and developer-friendly cloud-native environments.
-
----
-
-## 🔁 Version Control
-- **Git** – Foundation of everything. Deep expertise in branching strategies, monorepo vs polyrepo scaling, submodules, and GitOps synchronization.
 
 ---
 
