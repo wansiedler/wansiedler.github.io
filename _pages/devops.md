@@ -14,6 +14,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
+---
 # DevOps | GitOps | SecOps Architect
 
 > 💡 Infrastructure engineer with extensive hands-on experience in enterprise-grade automation, Kubernetes orchestration, hybrid cloud architecture, and large-scale observability.  
