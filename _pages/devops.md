@@ -23,16 +23,12 @@ social: true # includes social icons at the bottom of the page
 
 ## ⚙️ Infrastructure as Code
 
-**Ansible**
+**Terraform** / **Ansible** / **Terragrunt** / **OpenTofu**
 - Multi-cluster inventory workflows
 - Idempotent, modular playbooks for predictable, repeatable deployments
-
-**Terraform** / **Terragrunt** / **OpenTofu**
 - Modular IaaC with DRY principles
 - Secure infrastructure deployments on AWS/GCP/Yandex.Cloud/Azure
 
-**Helmfile**
-- Reliable K8s Helm releases via Helmfile orchestration
 
 **Pulumi**
 - Polyglot Infrastructure-as-Code with strong typing and modern SDK ergonomics
@@ -48,6 +44,8 @@ social: true # includes social icons at the bottom of the page
 - Building scalable microservices and distributed systems
 - gRPC APIs, concurrent pipelines, instrumentation-first engineering
 
+**Python** / **Node**
+ 
 ---
 
 ## 🌀 CI/CD Pipelines
@@ -67,10 +65,11 @@ social: true # includes social icons at the bottom of the page
 
 ## ☸️ Kubernetes & Cloud-Native Tooling
 
-- Helm / Timoni
+- Helm / Timoni / Helmfile
+- Reliable K8s Helm releases via Helmfile orchestration
 - OpenShift / Rancher / Deckhouse (with Flant support)
 - EKS / RDS / VPC / IAM / Identity Center / OpenSearch / ElasticCache / ECR / S3 / Aurora PG
-- Yandex.Cloud / Azure / GCP
+- AWS / GCP / Yandex.Cloud / Azure
 - OpenStack integration and KaaS deployment
 
 ---
@@ -107,7 +106,7 @@ social: true # includes social icons at the bottom of the page
 - PostgreSQL / MySQL / MS SQL
 
 **NoSQL**
-- ScyllaDB / HBase / MongoDB / BigTable / CockroachDB / YugabyteDB
+- ScyllaDB / HBase / MongoDB / BigTable / CockroachDB / YugabyteDB / ElasticSearch
 
 **Streaming & Eventing**
 - Kafka / RabbitMQ / NATS / Cassandra / Redis / ClickHouse
@@ -159,3 +158,53 @@ social: true # includes social icons at the bottom of the page
 ## 💡 Philosophy
 
 I believe in infrastructure as product — continuously evolving, observable, and developer-friendly. My goal is to empower teams through automation, self-service, and security-first design, whether we're deploying microservices across continents or debugging a flaky container in dev.
+
+
+
+---
+
+## 🛡️ Certifications
+
+- OpenJS Node.js Application Developer (JSNAD)
+- OpenJS Node.js Services Developer (JSNSD)
+- Certified Kubernetes Administrator (CKA)
+- Certified Kubernetes Application Developer (CKAD)
+- PCPP1™ – Certified Professional in Python Programming (bonus points 😉)
+
+---
+
+## 📌 Selected Experience
+
+### **Senior DevOps & Platform Engineer**
+
+**Ippen Digital Media GmbH**, Remote 🇩🇪 — _2021–2025_
+
+- Led GitOps transformation with ArgoCD and Terraform for multi-cloud systems.
+- Built scalable CI/CD pipelines with GitLab and GitHub Actions.
+- Automated infrastructure using Ansible, Pulumi, and HashiCorp tooling.
+- Designed observability stack using Prometheus, Loki, Jaeger, Grafana.
+- Hardened Kubernetes security and implemented shift-left scanning.
+
+---
+
+### **DevOps Lead / Cloud Architect**
+
+**Lexx Software Co. Ltd.**, Moscow 🇷🇺 — _2015–2021_
+
+- Designed high-availability Kubernetes clusters on AWS and Proxmox.
+- Integrated centralized logging and alerting systems (Graylog, AlertManager).
+- Migrated on-premise workloads to containerized microservices with Helm.
+- Enforced secrets management using Vault and OPA-based policies.
+
+---
+
+### **SysOps / Infrastructure Engineer**
+
+**Intaro**, Russia 🇷🇺 — _2004–2015_
+
+- Managed legacy VM infrastructure and transitioned to Dockerized workloads.
+- Designed early CI/CD pipelines using Jenkins and Bash scripting.
+- Automated provisioning using Ansible and Terraform for bare-metal clusters.
+- Built custom load balancer solution using HAProxy + Consul.
+
+---
