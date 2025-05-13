@@ -1,6 +1,6 @@
 ---
 layout: about
-title: Senior Python Backend Engineer
+title: Senior DevOps | GitOps | SecOps Architect
 permalink: /devops/
 subtitle: <div>📍 Munich, Germany | ✉️ alexander@wansiedler.com | 📱 +49 176 241 64 141  | 🔗 <a href='https://linktr.ee/wansiedler'>linktree</a></div>
 profile:
