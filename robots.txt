@@ -1,4 +1,2 @@
 User-agent: *
-Disallow:
-
-Sitemap: https://wansiedler.com//sitemap.xml
+Disallow: /sitemap.xml
