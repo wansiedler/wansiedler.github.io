@@ -264,7 +264,7 @@ plugins:
   - jekyll-paginate-v2
   - jekyll-regex-replace
   - jekyll/scholar
-  - jekyll-sitemap
+#  - jekyll-sitemap
   - jekyll-tabs
   - jekyll-toc
   - jekyll-twitter-plugin
