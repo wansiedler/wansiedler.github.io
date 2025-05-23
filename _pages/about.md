@@ -21,9 +21,9 @@ social: true # includes social icons at the bottom of the page
 [//]: # (✔ 13+ in TS/Node.js &#40;JS since 2001&#41;)
 [//]: # (✔ 7+ in Rust/Solidity)
 [//]: # (✔ 20+ in Python)
-✔ distributed K8s high load (in Go//Node/Python/PHP/Java ) \
-✔ DBA/DBM with PostgreSQL, MySQL, Oracle \
-✔ Extensive experience in microservices/monoliths, APIs (RPC/GraphQL/REST/WebSockets), profiling&optimisation, Unit/regression/E2E-testing\
+✔ Distributed K8s high load (in Go//Node/Python/PHP/Java ) \
+✔ DBA/DBM for PostgreSQL, MySQL, Oracle \
+✔ Extensive experience in microservices/monoliths, APIs (RPC/GraphQL/REST/WebSockets), profiling&optimisation, Unit/regression/E2E-testing \
 ✔ 10+ Years of managing Infrastructure as Code (Terraform/Ansible) within AWS/GCP \
 ✔ Mentorship/Codereview/Techleading/Projectmanagement\
 ✔ Adapting Agile/Scrum/Kanban for cross-functional teams\
