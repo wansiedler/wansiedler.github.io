@@ -18,13 +18,13 @@ social: true # includes social icons at the bottom of the page
 
 # What are my core skills? 🎯
 
-✔ 13+ years in TS/Node.js (JS since 2001), \
-✔ 5+ in Go, \
-✔ 7+ in Rust/Solidity, \
-✔ 20+ in Python, \
-✔ PHP/SQL/C/C++ since 2003 \
+[//]: # (✔ 13+ in TS/Node.js &#40;JS since 2001&#41;)
+[//]: # (✔ 7+ in Rust/Solidity)
+[//]: # (✔ 20+ in Python)
+✔ distributed K8s high load (in Go//Node/Python/PHP/Java ) \
+✔ DBA/DBM with PostgreSQL, MySQL, Oracle \
 ✔ Extensive experience in microservices/monoliths, APIs (RPC/GraphQL/REST/WebSockets), profiling&optimisation, Unit/regression/E2E-testing\
-✔ 10+ Years of managing Infrastructure as Code (Terraform/Ansible) within AWS/GCP/Azure \
+✔ 10+ Years of managing Infrastructure as Code (Terraform/Ansible) within AWS/GCP \
 ✔ Mentorship/Codereview/Techleading/Projectmanagement\
 ✔ Adapting Agile/Scrum/Kanban for cross-functional teams\
 ✔ Experience in process transformation and architecture migration\
@@ -36,12 +36,13 @@ social: true # includes social icons at the bottom of the page
 
 I speak Data Structures & Algorithms, English, German, Russian and Chinese.
 
-I am fluent in TypeScript for Node.js/Nest/Express/Fastify and React/Next.js, Angular/Universal, Vue.js/Nuxt.js, Svelt/Kit.
-Python for Django/Flask/FastAPI.
-Go Fiber for gRPC.
-Java for Spring Boot/Micronaut, Groovy with Grails.
-Ruby for RoR.
-PHP for Symfony.
+I speak Go Fiber for gRPC.
+I am fluent in TypeScript for Nest/Express/Fastify and React/Next.js, Angular/Universal, Vue.js/Nuxt.js, Svelt/Kit.
+Python for Django/FastAPI.
+
+[//]: # (Java for Spring Boot/Micronaut, Groovy with Grails.)
+[//]: # (Ruby for RoR.)
+[//]: # (PHP for Symfony.)
 
 I am fluent in DevOps/Gitops dialects, Docker/Kubernetes/OpenStack, Ceph, OpenTelemetry, IaC and all around it.
 I enjoy working with Terraform & Ansible in AWS and GCP environments.
@@ -50,10 +51,11 @@ I enjoy working with Terraform & Ansible in AWS and GCP environments.
 
 ### Who am I?
 
-I am a developer, technical consultant and ex-CTO with over 20 years of progressively challenging technical successes
-in diversified, cutting-edge technologies with demonstrated and proven ability to organize, train and lead cross-functional teams in achieving superior results, making me a team player and a leader with a strong sense of responsibility.
+I am a developer, technical consultant, and ex-CTO with over 20 years of progressively challenging technical successes
+in diversified, cutting-edge technologies with the demonstrated and proven ability to organize, train, and lead 
+cross-functional teams in achieving superior results, making me a team player and a leader with a strong sense of responsibility.
 
-I code everything that can be scripted, compiled or used as a microservice or a blockchain smart contract
+I code everything that can be scripted, compiled, or used as a microservice or a blockchain smart contract
 and lead teams to do the same.
 
 ---
@@ -66,12 +68,12 @@ and lead teams to do the same.
 - Python with FastAPI/Django/Flask, Celery, and SQLAlchemy
 - Golang with Gin/Echo/Fiber, PHP in Symfony/Laravel/Zend
 - Apache Hadoop/Apache Kafka, Redis/RabbitMQ, PostgreSQL/MySQL, ElasticSearch, MongoDB, S3, Firebase, GraphQL
-- Kubernetes: Advanced cluster design, monitoring and troubleshooting
+- Kubernetes: Advanced cluster design, monitoring, and troubleshooting
 - DevOps/GitOps Tools: ArgoCD, Flux and automated deployment strategies
-- Infrastructure as Code: Crossplane, Terraform, AWS CDK and CloudFormation with Docker
+- Infrastructure as Code: Crossplane, Terraform, AWS CDK, and CloudFormation with Docker
 - CI/CD Expertise: GitLab CI/CD, Jenkins and GitLab/GitHub Actions
-- Cloud Platforms: Extensive experience with AWS, GCP and Azure
-- Monitoring: Hands-on with Prometheus, Grafana and ELK Stack
+- Cloud Platforms: Extensive experience with AWS, GCP, and Azure
+- Monitoring: Hands-on with Prometheus, Grafana, and ELK Stack
 
 ---
 
