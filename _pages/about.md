@@ -21,7 +21,7 @@ social: true # includes social icons at the bottom of the page
 [//]: # (✔ 13+ in TS/Node.js &#40;JS since 2001&#41;)
 [//]: # (✔ 7+ in Rust/Solidity)
 [//]: # (✔ 20+ in Python)
-✔ Distributed high load (in Go//Node/Python/PHP/Java ) in K8s clusters\
+✔ Distributed high load (with Go/Node/Python/PHP/Java ) in K8s clusters\
 ✔ DBA/DBM for PostgreSQL, MySQL, Oracle \
 ✔ Extensive experience in microservices/monoliths, APIs (RPC/GraphQL/REST/WebSockets), profiling&optimisation, Unit/regression/E2E-testing \
 ✔ 10+ Years of managing Infrastructure as Code (Terraform/Ansible) within AWS/GCP \
