@@ -27,8 +27,8 @@ social: true # includes social icons at the bottom of the page
 ✔ 10+ Years of managing Infrastructure as Code (Terraform/Ansible) within AWS/GCP \
 ✔ Mentorship/Codereview/Techleading/Projectmanagement\
 ✔ Adapting Agile/Scrum/Kanban for cross-functional teams\
-✔ Experience in process transformation and architecture migration\
-✔ Experience in creating and supporting SaaS solutions
+✔ Experience in process transformation and architecture migration & SaaS solutions
+
 
 ---
 
