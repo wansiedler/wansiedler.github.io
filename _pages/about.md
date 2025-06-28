@@ -31,7 +31,7 @@ social: true # includes social icons at the bottom of the page
 
 ### Who do I do?
 
-I speak Data Structures & Algorithms, English, German and Chinese.
+I speak Data Structures & Algorithms German, English and Chinese.
 
 I speak Go Fiber for gRPC.
 I am fluent in TypeScript for Nest/Express/Fastify and React/Next.js, Angular/Universal, Vue.js/Nuxt.js, Svelt/Kit.
