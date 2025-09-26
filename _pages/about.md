@@ -18,7 +18,7 @@ social: true # includes social icons at the bottom of the page
 
 # What are my core skills? 🎯
 
-✔ Distributed high load (with Go/Node/Python/PHP/Java ) in K8s clusters\
+✔ Distributed high load with custom pipelining (Go/Node/Python/PHP/Java/C++) in K8s clusters \
 ✔ DBA/DBM for PostgreSQL, MySQL, Oracle \
 ✔ Extensive experience in microservices/monoliths, APIs (RPC/GraphQL/REST/WebSockets), profiling&optimisation, Unit/regression/E2E-testing \
 ✔ 10+ Years of managing Infrastructure as Code (Terraform/Ansible) within AWS/GCP \
@@ -26,33 +26,30 @@ social: true # includes social icons at the bottom of the page
 ✔ Adapting Agile/Scrum/Kanban for cross-functional teams\
 ✔ Experience in process transformation and architecture migration & SaaS solutions
 
-
 ---
 
-### Who do I do?
+### What do I do?
 
-I speak Data Structures & Algorithms German, English and Chinese.
+I speak German, English, and Chinese, and have a strong command of data structures & algorithms.
 
-I speak Go Fiber for gRPC.
-I am fluent in TypeScript for Nest/Express/Fastify and React/Next.js, Angular/Universal, Vue.js/Nuxt.js, Svelt/Kit.
-Python for Django/FastAPI.
+I am fluent in TypeScript for Node.js/Nest/Express/Fastify and React/Next.js, Angular/Universal, Vue.js/Nuxt.js, Svelt/Kit.
+Python for Django/Flask/FastAPI.
+Go Fiber for gRPC.
+Java for Spring Boot/Micronaut, Groovy with Grails.
+Ruby for RoR.
+PHP for Symfony.
 
-[//]: # (Java for Spring Boot/Micronaut, Groovy with Grails.)
-[//]: # (Ruby for RoR.)
-[//]: # (PHP for Symfony.)
-
-I am fluent in DevOps/Gitops dialects, Docker/Kubernetes/OpenStack, Ceph, OpenTelemetry, IaC and all around it.
+I am fluent in DevOps/Gitops practices, Docker/Kubernetes/OpenStack, Ceph, OpenTelemetry, IaC and all around it.
 I enjoy working with Terraform & Ansible in AWS and GCP environments.
 
 ---
 
 ### Who am I?
 
-I am a developer, technical consultant, and ex-CTO with over 20 years of progressively challenging technical successes
-in diversified, cutting-edge technologies with the demonstrated and proven ability to organize, train, and lead 
-cross-functional teams in achieving superior results, making me a team player and a leader with a strong sense of responsibility.
+I am a developer, technical consultant and ex-CTO with over 20 years of progressively challenging technical successes
+in diversified, cutting-edge technologies with demonstrated and proven ability to organize, train and lead cross-functional teams in achieving superior results, making me a team player and a leader with a strong sense of responsibility.
 
-I code everything that can be scripted, compiled, or used as a microservice or a blockchain smart contract
+I code everything that can be scripted, compiled or used as a microservice or a blockchain smart contract
 and lead teams to do the same.
 
 ---
@@ -65,12 +62,12 @@ and lead teams to do the same.
 - Python with FastAPI/Django/Flask, Celery, and SQLAlchemy
 - Golang with Gin/Echo/Fiber, PHP in Symfony/Laravel/Zend
 - Apache Hadoop/Apache Kafka, Redis/RabbitMQ, PostgreSQL/MySQL, ElasticSearch, MongoDB, S3, Firebase, GraphQL
-- Kubernetes: Advanced cluster design, monitoring, and troubleshooting
+- Kubernetes: Advanced cluster design, monitoring and troubleshooting
 - DevOps/GitOps Tools: ArgoCD, Flux and automated deployment strategies
-- Infrastructure as Code: Crossplane, Terraform, AWS CDK, and CloudFormation with Docker
+- Infrastructure as Code: Crossplane, Terraform, AWS CDK and CloudFormation with Docker
 - CI/CD Expertise: GitLab CI/CD, Jenkins and GitLab/GitHub Actions
-- Cloud Platforms: Extensive experience with AWS, GCP, and Azure
-- Monitoring: Hands-on with Prometheus, Grafana, and ELK Stack
+- Cloud Platforms: Extensive experience with AWS, GCP and Azure
+- Monitoring: Hands-on with Prometheus, Grafana and ELK Stack
 
 ---
 
@@ -94,177 +91,88 @@ and lead teams to do the same.
 
 - Oracle Certified Associate Java SE 8 Programmer
 
-[//]: # "- Certified Kubernetes Security Specialist (CKS)"
-[//]: # "- AWS Certified Solutions Architect - Associate"
-[//]: # "- AWS Certified Data Engineer - Associate"
+- AWS Certified Developer - Professional"
 
-- AWS Certified Developer - Proffessional"
-
-[//]: # "- AWS Certified SysOps Administrator - Associate"
-[//]: # "- AWS Certified DevOps Engineer - Professional"
-[//]: #
-[//]: # "- Google Cloud Certified Associate Cloud Engineer (ACE)"
 
 - Microsoft Azure Fundamentals AZ-900
 
 ---
 
-[//]: # "#### I’m currently learning:"
-[//]: #
-[//]: # "- JAX/Tensorflow"
-[//]: # "- Computer Vision in Pytorch/Keras & opencv"
+#### My 🛠️:
 
-<div style="text-align: center;">
-    <img src="https://media.giphy.com/media/NTur7XlVDUdqM/giphy.gif" width="50%" alt="this is fine" />
-</div>
+![WebAssembly](https://img.shields.io/badge/WebAssembly-654FF0?style=for-the-badge&logo=webassembly&logoColor=white)
+![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white)
+![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
+![Vyper](https://img.shields.io/badge/Vyper-2E2E2E?style=for-the-badge&logo=ethereum&logoColor=white)
+![Arbitrum](https://img.shields.io/badge/Arbitrum-28A0F0?style=for-the-badge&logo=arbitrum&logoColor=white)
+![Optimism](https://img.shields.io/badge/Optimism-FF0420?style=for-the-badge&logo=optimism&logoColor=white)
+![Polygon](https://img.shields.io/badge/Polygon-8247E5?style=for-the-badge&logo=polygon&logoColor=white)
+![Binance Smart Chain](https://img.shields.io/badge/Binance_Smart_Chain-F3BA2F?style=for-the-badge&logo=binance&logoColor=white)
+![Solana](https://img.shields.io/badge/Solana-000000?style=for-the-badge&logo=solana&logoColor=white)
+![Aptos](https://img.shields.io/badge/Aptos-000000?style=for-the-badge&logo=aptos&logoColor=white)
+![SUI](https://img.shields.io/badge/SUI-6CACE4?style=for-the-badge&logo=sui&logoColor=white)
+![Fantom](https://img.shields.io/badge/Fantom-1969FF?style=for-the-badge&logo=fantom&logoColor=white)
+![Flow](https://img.shields.io/badge/Flow-00EF8B?style=for-the-badge&logo=flow&logoColor=white)
+![Near](https://img.shields.io/badge/Near-000000?style=for-the-badge&logo=near&logoColor=white)
+![Polkadot](https://img.shields.io/badge/Polkadot-E6007A?style=for-the-badge&logo=polkadot&logoColor=white)
 
-[//]: # "---"
-[//]: #
-[//]: # "#### My 🛠️:"
-[//]: #
-[//]: # "![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white)"
-[//]: # "![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)"
-[//]: # "![Vyper](https://img.shields.io/badge/Vyper-2E2E2E?style=for-the-badge&logo=ethereum&logoColor=white)"
-[//]: # "![Arbitrum](https://img.shields.io/badge/Arbitrum-28A0F0?style=for-the-badge&logo=arbitrum&logoColor=white)"
-[//]: # "![Optimism](https://img.shields.io/badge/Optimism-FF0420?style=for-the-badge&logo=optimism&logoColor=white)"
-[//]: # "![Polygon](https://img.shields.io/badge/Polygon-8247E5?style=for-the-badge&logo=polygon&logoColor=white)"
-[//]: # "![Binance Smart Chain](https://img.shields.io/badge/Binance_Smart_Chain-F3BA2F?style=for-the-badge&logo=binance&logoColor=white)"
-[//]: # "![Solana](https://img.shields.io/badge/Solana-000000?style=for-the-badge&logo=solana&logoColor=white)"
-[//]: # "![Aptos](https://img.shields.io/badge/Aptos-000000?style=for-the-badge&logo=aptos&logoColor=white)"
-[//]: # "![SUI](https://img.shields.io/badge/SUI-6CACE4?style=for-the-badge&logo=sui&logoColor=white)"
-[//]: # "![Fantom](https://img.shields.io/badge/Fantom-1969FF?style=for-the-badge&logo=fantom&logoColor=white)"
-[//]: # "![Flow](https://img.shields.io/badge/Flow-00EF8B?style=for-the-badge&logo=flow&logoColor=white)"
-[//]: # "![Near](https://img.shields.io/badge/Near-000000?style=for-the-badge&logo=near&logoColor=white)"
-[//]: # "![Polkadot](https://img.shields.io/badge/Polkadot-E6007A?style=for-the-badge&logo=polkadot&logoColor=white)"
-[//]: #
-[//]: # "![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)"
-[//]: # "![Redis](https://img.shields.io/badge/redis%20-%23DC382D.svg?&style=for-the-badge&logo=redis&logoColor=white)"
-[//]: # "![RabbitMQ](https://img.shields.io/badge/rabbitmq-%23FF6600.svg?&style=for-the-badge&logo=rabbitmq&logoColor=white)"
-[//]: #
-[//]: # "![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)"
-[//]: # "![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)"
-[//]: # "![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)"
-[//]: # "![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)"
-[//]: #
-[//]: # "![Docker](https://img.shields.io/badge/docker-%232496ED.svg?&style=for-the-badge&logo=docker&logoColor=white)"
-[//]: # "![Kubernetes](https://img.shields.io/badge/kubernetes-%23326CE5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white)"
-[//]: #
-[//]: # "![GitHub](https://img.shields.io/badge/github-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white)"
-[//]: # "![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?&style=for-the-badge&logo=gitlab&logoColor=white)"
-[//]: # "![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?&style=for-the-badge&logo=bitbucket&logoColor=white)"
-[//]: #
-[//]: # "![CircleCI](https://img.shields.io/badge/circleci-%23343434.svg?&style=for-the-badge&logo=circleci&logoColor=white)"
-[//]: # "![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?&style=for-the-badge&logo=jenkins&logoColor=white)"
-[//]: # "![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-%232088FF.svg?&style=for-the-badge&logo=github-actions&logoColor=white)"
-[//]: #
-[//]: # "![Terraform](https://img.shields.io/badge/Terraform-%235835CC.svg?&style=for-the-badge&logo=terraform&logoColor=white)"
-[//]: # "![Ansible](https://img.shields.io/badge/Ansible-%231A1918.svg?&style=for-the-badge&logo=ansible&logoColor=white)"
-[//]: # "![AWS](https://img.shields.io/badge/AWS-%23232F3E.svg?&style=for-the-badge&logo=amazon-aws&logoColor=white)"
-[//]: # "![Google Cloud](https://img.shields.io/badge/Google_Cloud-%234285F4.svg?&style=for-the-badge&logo=google-cloud&logoColor=white)"
-[//]: # "![Microsoft Azure](https://img.shields.io/badge/Microsoft_Azure-%230072C6.svg?&style=for-the-badge&logo=microsoft-azure&logoColor=white)"
-[//]: #
-[//]: # "![Elastic Search](https://img.shields.io/badge/Elastic_Search-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)"
-[//]: # "![Grafana](https://img.shields.io/badge/Grafana-%23F46800.svg?&style=for-the-badge&logo=grafana&logoColor=white)"
-[//]: # "![Prometheus](https://img.shields.io/badge/Prometheus-%23E6522C.svg?&style=for-the-badge&logo=prometheus&logoColor=white)"
-[//]: #
-[//]: # "![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)"
-[//]: # "![TypeScript](https://img.shields.io/badge/typescript-%233178C6.svg?&style=for-the-badge&logo=typescript&logoColor=white)"
-[//]: # "![React](https://img.shields.io/badge/react-%23282c34.svg?&style=for-the-badge&logo=react&logoColor=%2361dafb)"
-[//]: # "![Next.js](https://img.shields.io/badge/Next.js-%23000000.svg?&style=for-the-badge&logo=next.js&logoColor=white)"
-[//]: # "![Vue.js](https://img.shields.io/badge/Vue.js-%2335495e.svg?&style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)"
-[//]: # "![Nuxt.js](https://img.shields.io/badge/Nuxt.js-%2300C58E.svg?&style=for-the-badge&logo=nuxtdotjs&logoColor=white)"
-[//]: # "![Angular](https://img.shields.io/badge/Angular-%23DD0031.svg?&style=for-the-badge&logo=angular&logoColor=white)"
-[//]: #
-[//]: # "![Redux](https://img.shields.io/badge/redux-%23764ABC.svg?&style=for-the-badge&logo=redux&logoColor=white)"
-[//]: # "![Zustand](https://img.shields.io/badge/zustand-%23282c34.svg?&style=for-the-badge)"
-[//]: #
-[//]: # "![Django](https://img.shields.io/badge/django-%230c4b33.svg?&style=for-the-badge&logo=django&logoColor=white)"
-[//]: # "![Flask](https://img.shields.io/badge/flask-%23000.svg?&style=for-the-badge&logo=flask&logoColor=white)"
-[//]: # "![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)"
-[//]: # "![Celery](https://img.shields.io/badge/celery-%2337814A.svg?&style=for-the-badge&logo=celery&logoColor=white)"
-[//]: #
-[//]: # "![Rust](https://img.shields.io/badge/rust-%23000000.svg?&style=for-the-badge&logo=rust&logoColor=white)"
-[//]: # "![Solidity](https://img.shields.io/badge/solidity-%23363636.svg?&style=for-the-badge&logo=solidity&logoColor=white)"
-[//]: # "![OpenZeppelin](https://img.shields.io/badge/OpenZeppelin-4E5EE4?logo=OpenZeppelin&logoColor=fff&style=for-the-badge)"
-[//]: #
-[//]: # "![Haskell](https://img.shields.io/badge/Haskell-%235D4F85.svg?&style=for-the-badge&logo=haskell&logoColor=white)"
-[//]: # "![Lisp](https://img.shields.io/badge/Lisp-%23E60087.svg?&style=for-the-badge&logo=lisp&logoColor=white)"
-[//]: #
-[//]: # "![C](https://img.shields.io/badge/C-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white)"
-[//]: # "![C++](https://img.shields.io/badge/C++-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&logoColor=white)"
-[//]: #
-[//]: # "![FreeBSD](https://img.shields.io/badge/FreeBSD-%23AB2B28.svg?&style=for-the-badge&logo=freebsd&logoColor=white)"
-[//]: #
-[//]: # "## 🖥️ Operating Systems"
-[//]: #
-[//]: # "![FreeBSD](https://img.shields.io/badge/FreeBSD-%23AB2B28.svg?&style=for-the-badge&logo=freebsd&logoColor=white)"
-[//]: # "![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)"
-[//]: # "![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)"
-[//]: # "![Debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)"
-[//]: # "![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)"
-[//]: #
-[//]: # "## 🖥️ Languages & Web Technologies"
-[//]: #
-[//]: # "![WebAssembly](https://img.shields.io/badge/WebAssembly-654FF0?style=for-the-badge&logo=webassembly&logoColor=white)"
-[//]: # "![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?&style=for-the-badge&logo=openjdk&logoColor=white)"
-[//]: # "![Groovy](https://img.shields.io/badge/Groovy-4298B8?style=for-the-badge&logo=apache-groovy&logoColor=white)"
-[//]: # "![Lua](https://img.shields.io/badge/Lua-%23006BB6.svg?&style=for-the-badge&logo=lua&logoColor=white)"
-[//]: # "![Deno](https://img.shields.io/badge/Deno-000000?style=for-the-badge&logo=deno&logoColor=white)"
-[//]: # "![Rust](https://img.shields.io/badge/Rust-%23000000.svg?&style=for-the-badge&logo=rust&logoColor=white)"
-[//]: # "![Haskell](https://img.shields.io/badge/Haskell-%235D4F85.svg?&style=for-the-badge&logo=haskell&logoColor=white)"
-[//]: # "![Lisp](https://img.shields.io/badge/Lisp-%23E60087.svg?&style=for-the-badge&logo=lisp&logoColor=white)"
-[//]: # "![C](https://img.shields.io/badge/C-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white)"
-[//]: # "![C++](https://img.shields.io/badge/C++-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&logoColor=white)"
-[//]: #
-[//]: # "## 🎨 Frontend Development"
-[//]: #
-[//]: # "![Svelte](https://img.shields.io/badge/Svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=white)"
-[//]: # "![React](https://img.shields.io/badge/React-%23282c34.svg?&style=for-the-badge&logo=react&logoColor=%2361dafb)"
-[//]: # "![Next.js](https://img.shields.io/badge/Next.js-%23000000.svg?&style=for-the-badge&logo=next.js&logoColor=white)"
-[//]: # "![Vue.js](https://img.shields.io/badge/Vue.js-%2335495e.svg?&style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)"
-[//]: # "![Nuxt.js](https://img.shields.io/badge/Nuxt.js-%2300C58E.svg?&style=for-the-badge&logo=nuxtdotjs&logoColor=white)"
-[//]: # "![Angular](https://img.shields.io/badge/Angular-%23DD0031.svg?&style=for-the-badge&logo=angular&logoColor=white)"
-[//]: #
-[//]: # "## ⚙️ Backend Development"
-[//]: #
-[//]: # "![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)"
-[//]: # "![Django](https://img.shields.io/badge/Django-%230c4b33.svg?&style=for-the-badge&logo=django&logoColor=white)"
-[//]: # "![Flask](https://img.shields.io/badge/Flask-%23000.svg?&style=for-the-badge&logo=flask&logoColor=white)"
-[//]: # "![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)"
-[//]: # "![Celery](https://img.shields.io/badge/Celery-%2337814A.svg?&style=for-the-badge&logo=celery&logoColor=white)"
-[//]: #
-[//]: # "## 🔗 Blockchain / Web3"
-[//]: #
-[//]: # "![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white)"
-[//]: # "![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)"
-[//]: #
-[//]: # "## 📊 Databases & Message Brokers"
-[//]: #
-[//]: # "![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)"
-[//]: # "![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)"
-[//]: # "![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)"
-[//]: # "![Redis](https://img.shields.io/badge/Redis-%23DC382D.svg?&style=for-the-badge&logo=redis&logoColor=white)"
-[//]: #
-[//]: # "## 🏗 Infrastructure & DevOps"
-[//]: #
-[//]: # "![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?&style=for-the-badge&logo=docker&logoColor=white)"
-[//]: # "![Kubernetes](https://img.shields.io/badge/Kubernetes-%23326CE5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white)"
-[//]: #
-[//]: # "## 🔑 Security & Monitoring"
-[//]: #
-[//]: # "![Elastic Search](https://img.shields.io/badge/Elastic_Search-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)"
-[//]: # "![Grafana](https://img.shields.io/badge/Grafana-%23F46800.svg?&style=for-the-badge&logo=grafana&logoColor=white)"
-[//]: # "![Prometheus](https://img.shields.io/badge/Prometheus-%23E6522C.svg?&style=for-the-badge&logo=prometheus&logoColor=white)"
-[//]: #
-[//]: # "## 🎖️ Certifications"
-[//]: #
-[//]: # "![Certified Kubernetes Administrator](https://img.shields.io/badge/Certified_Kubernetes_Administrator-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)"
-[//]: # "![AWS Certified Solutions Architect](https://img.shields.io/badge/AWS_Certified_Solutions_Architect-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)"
-[//]: #
-[//]: # "## 💡 AI / ML / Data Science"
-[//]: #
-[//]: # "![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)"
-[//]: # "![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)"
+![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
+![Redis](https://img.shields.io/badge/redis%20-%23DC382D.svg?&style=for-the-badge&logo=redis&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/rabbitmq-%23FF6600.svg?&style=for-the-badge&logo=rabbitmq&logoColor=white)
+
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+
+![Docker](https://img.shields.io/badge/docker-%232496ED.svg?&style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/kubernetes-%23326CE5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white)
+
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white)
+![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?&style=for-the-badge&logo=gitlab&logoColor=white)
+![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?&style=for-the-badge&logo=bitbucket&logoColor=white)
+
+![CircleCI](https://img.shields.io/badge/circleci-%23343434.svg?&style=for-the-badge&logo=circleci&logoColor=white)
+![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?&style=for-the-badge&logo=jenkins&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-%232088FF.svg?&style=for-the-badge&logo=github-actions&logoColor=white)
+
+![Terraform](https://img.shields.io/badge/Terraform-%235835CC.svg?&style=for-the-badge&logo=terraform&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-%231A1918.svg?&style=for-the-badge&logo=ansible&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23232F3E.svg?&style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-%234285F4.svg?&style=for-the-badge&logo=google-cloud&logoColor=white)
+![Microsoft Azure](https://img.shields.io/badge/Microsoft_Azure-%230072C6.svg?&style=for-the-badge&logo=microsoft-azure&logoColor=white)
+
+![Elastic Search](https://img.shields.io/badge/Elastic_Search-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-%23F46800.svg?&style=for-the-badge&logo=grafana&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-%23E6522C.svg?&style=for-the-badge&logo=prometheus&logoColor=white)
+
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/typescript-%233178C6.svg?&style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/react-%23282c34.svg?&style=for-the-badge&logo=react&logoColor=%2361dafb)
+![Next.js](https://img.shields.io/badge/Next.js-%23000000.svg?&style=for-the-badge&logo=next.js&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-%2335495e.svg?&style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
+![Nuxt.js](https://img.shields.io/badge/Nuxt.js-%2300C58E.svg?&style=for-the-badge&logo=nuxtdotjs&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-%23DD0031.svg?&style=for-the-badge&logo=angular&logoColor=white)
+
+![Redux](https://img.shields.io/badge/redux-%23764ABC.svg?&style=for-the-badge&logo=redux&logoColor=white)
+![Zustand](https://img.shields.io/badge/zustand-%23282c34.svg?&style=for-the-badge)
+
+![Django](https://img.shields.io/badge/django-%230c4b33.svg?&style=for-the-badge&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/flask-%23000.svg?&style=for-the-badge&logo=flask&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Celery](https://img.shields.io/badge/celery-%2337814A.svg?&style=for-the-badge&logo=celery&logoColor=white)
+
+![Rust](https://img.shields.io/badge/rust-%23000000.svg?&style=for-the-badge&logo=rust&logoColor=white)
+![Solidity](https://img.shields.io/badge/solidity-%23363636.svg?&style=for-the-badge&logo=solidity&logoColor=white)
+![OpenZeppelin](https://img.shields.io/badge/OpenZeppelin-4E5EE4?logo=OpenZeppelin&logoColor=fff&style=for-the-badge)
+
+![Haskell](https://img.shields.io/badge/Haskell-%235D4F85.svg?&style=for-the-badge&logo=haskell&logoColor=white)
+![Lisp](https://img.shields.io/badge/Lisp-%23E60087.svg?&style=for-the-badge&logo=lisp&logoColor=white)
+
+![C](https://img.shields.io/badge/C-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&logoColor=white)
+
+![FreeBSD](https://img.shields.io/badge/FreeBSD-%23AB2B28.svg?&style=for-the-badge&logo=freebsd&logoColor=white)
 
 ---
 
