@@ -17,12 +17,12 @@ social: true # includes social icons at the bottom of the page
 ---
 
 # What are my core skills? 🎯
-✔ Distributed high-load with custom pipelining (in Go/Node/Python/PHP/Java/C++) in K8s clusters for FinTech/AI/Robotics \ \
+✔ Distributed high-load with custom pipelining (in Go/Node/Python/PHP/Java/C++) in K8s clusters for FinTech/AI/Robotics \
 ✔ DBA/DBM for PostgreSQL, MySQL, Oracle \
 ✔ Extensive experience in microservices/monoliths, APIs (RPC/GraphQL/REST/WebSockets), profiling&optimisation, Unit/regression/E2E-testing \
 ✔ 10+ Years of managing Infrastructure as Code (Terraform/Ansible) within AWS/GCP \
-✔ Mentorship/Codereview/Techleading/Projectmanagement\
-✔ Adapting Agile/Scrum/Kanban for cross-functional teams\
+✔ Mentorship/Codereview/Techleading/Projectmanagement \
+✔ Adapting Agile/Scrum/Kanban for cross-functional teams \
 ✔ Experience in process transformation and architecture migration & SaaS solutions
 
 ---
