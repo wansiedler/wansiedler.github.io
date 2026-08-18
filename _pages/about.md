@@ -17,7 +17,6 @@ social: true # includes social icons at the bottom of the page
 <p>
   <a href="https://www.linkedin.com/in/wansiedler/"><img alt="Resume" src="https://img.shields.io/badge/My-Resume-00775b.svg?style=flat-square" /></a>
   <a href="https://github.com/wansiedler"><img alt="GitHub" src="https://img.shields.io/badge/My-GitHub-333333.svg?style=flat-square" /></a>
-  <a href="/blog/"><img alt="Notes" src="https://img.shields.io/badge/Distilled-Notes-olive.svg?style=flat-square" /></a>
   <a href="https://linktr.ee/wansiedler"><img alt="Links" src="https://img.shields.io/badge/All-Links-maroon.svg?style=flat-square" /></a>
   <img alt="Views" src="https://komarev.com/ghpvc/?username=wansiedler&style=flat-square&color=ff69b4&label=Views" />
   <img alt="GitHub streak" src="https://streak-stats.demolab.com/?user=wansiedler&hide_longest_streak=true" />
