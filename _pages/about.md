@@ -14,14 +14,6 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-<p>
-  <a href="https://www.linkedin.com/in/wansiedler/"><img alt="Resume" src="https://img.shields.io/badge/My-Resume-00775b.svg?style=flat-square" /></a>
-  <a href="https://github.com/wansiedler"><img alt="GitHub" src="https://img.shields.io/badge/My-GitHub-333333.svg?style=flat-square" /></a>
-  <a href="https://linktr.ee/wansiedler"><img alt="Links" src="https://img.shields.io/badge/All-Links-maroon.svg?style=flat-square" /></a>
-  <img alt="Views" src="https://komarev.com/ghpvc/?username=wansiedler&style=flat-square&color=ff69b4&label=Views" />
-  <img alt="GitHub streak" src="https://streak-stats.demolab.com/?user=wansiedler&hide_longest_streak=true" />
-</p>
-
 ---
 
 # What are my core skills? 🎯
@@ -188,9 +180,17 @@ and lead teams to do the same.
 [//]: # ('<img class="repo-img-dark w-100" alt="wansiedler" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wansiedler&theme=dark&layout=compact">')
 [//]: # "[![WakaTime](https://github-readme-stats.vercel.app/api/wakatime?username=wansiedler)](https://github.com/wansiedler/github-readme-stats)"
 
+<p>
+  <a href="https://www.linkedin.com/in/wansiedler/"><img alt="Resume" src="https://img.shields.io/badge/My-Resume-00775b.svg?style=flat-square" /></a>
+  <a href="https://github.com/wansiedler"><img alt="GitHub" src="https://img.shields.io/badge/My-GitHub-333333.svg?style=flat-square" /></a>
+  <a href="https://linktr.ee/wansiedler"><img alt="Links" src="https://img.shields.io/badge/All-Links-maroon.svg?style=flat-square" /></a>
+  <img alt="Views" src="https://komarev.com/ghpvc/?username=wansiedler&style=flat-square&color=ff69b4&label=Views" />
+  <img alt="GitHub streak" src="https://streak-stats.demolab.com/?user=wansiedler&hide_longest_streak=true" />
+</p>
+
 <img class="repo-img-dark" alt="wansiedler" style="display:block;margin: 0 auto;max-width: 75%;" src="https://leetcard.jacoblin.cool/wansiedler?theme=dark&font=Inter&ext=activity">
 <br/>
-<img class="repo-img-dark" alt="wansiedler" style="display:block;margin: 0 auto;max-width: 75%;" src="https://github-profile-trophy.vercel.app/?username=wansiedler&theme=gitdimmed&locale=en&margin-w=5&margin-h=5&no-bg=true&rank=-C&column=4">
+<img class="repo-img-dark" alt="wansiedler" style="display:block;margin: 0 auto;max-width: 75%;" src="https://github-trophies.vercel.app/?username=wansiedler&theme=gitdimmed&locale=en&margin-w=5&margin-h=5&no-bg=true&column=4">
 
 ---
 
