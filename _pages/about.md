@@ -187,14 +187,14 @@ and lead teams to do the same.
   <img alt="Views" src="https://komarev.com/ghpvc/?username=wansiedler&style=flat-square&color=ff69b4&label=Views" />
 </p>
 
-<img class="repo-img-light" alt="wansiedler" style="display:block;margin: 0 auto;max-width: 75%;" src="https://leetcard.jacoblin.cool/wansiedler?theme=light&font=Inter&ext=activity">
-<img class="repo-img-dark" alt="wansiedler" style="display:block;margin: 0 auto;max-width: 75%;" src="https://leetcard.jacoblin.cool/wansiedler?theme=dark&font=Inter&ext=activity">
+<img class="repo-img-light" alt="wansiedler" style="margin: 0 auto;max-width: 75%;" src="https://leetcard.jacoblin.cool/wansiedler?theme=light&font=Inter&ext=activity">
+<img class="repo-img-dark" alt="wansiedler" style="margin: 0 auto;max-width: 75%;" src="https://leetcard.jacoblin.cool/wansiedler?theme=dark&font=Inter&ext=activity">
 <br/>
-<img class="repo-img-light" alt="wansiedler" style="display:block;margin: 0 auto;max-width: 75%;" src="https://github-trophies.vercel.app/?username=wansiedler&theme=flat&locale=en&margin-w=5&margin-h=5&no-bg=true&column=4">
-<img class="repo-img-dark" alt="wansiedler" style="display:block;margin: 0 auto;max-width: 75%;" src="https://github-trophies.vercel.app/?username=wansiedler&theme=gitdimmed&locale=en&margin-w=5&margin-h=5&no-bg=true&column=4">
+<img class="repo-img-light" alt="wansiedler" style="margin: 0 auto;max-width: 75%;" src="https://github-trophies.vercel.app/?username=wansiedler&theme=flat&locale=en&margin-w=5&margin-h=5&no-bg=true&column=4">
+<img class="repo-img-dark" alt="wansiedler" style="margin: 0 auto;max-width: 75%;" src="https://github-trophies.vercel.app/?username=wansiedler&theme=gitdimmed&locale=en&margin-w=5&margin-h=5&no-bg=true&column=4">
 <br/>
-<img class="repo-img-light" alt="wansiedler" style="display:block;margin: 0 auto;max-width: 75%;" src="https://streak-stats.demolab.com/?user=wansiedler&background=transparent&hide_border=true">
-<img class="repo-img-dark" alt="wansiedler" style="display:block;margin: 0 auto;max-width: 75%;" src="https://streak-stats.demolab.com/?user=wansiedler&background=transparent&hide_border=true&theme=dark">
+<img class="repo-img-light" alt="wansiedler" style="margin: 0 auto;max-width: 75%;" src="https://streak-stats.demolab.com/?user=wansiedler&background=transparent&hide_border=true">
+<img class="repo-img-dark" alt="wansiedler" style="margin: 0 auto;max-width: 75%;" src="https://streak-stats.demolab.com/?user=wansiedler&background=transparent&hide_border=true&theme=dark">
 
 ---
 
