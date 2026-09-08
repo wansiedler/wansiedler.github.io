@@ -31,12 +31,8 @@ social: true # includes social icons at the bottom of the page
 
 I speak German, English, and Chinese, and have a strong command of data structures & algorithms.
 
-I am fluent in TypeScript for Node.js/Nest/Express/Fastify and React/Next.js, Angular/Universal, Vue.js/Nuxt.js, Svelt/Kit.
-Python for Django/Flask/FastAPI.
-Go Fiber for gRPC.
-Java for Spring Boot/Micronaut, Groovy with Grails.
-Ruby for RoR.
-PHP for Symfony.
+I am fluent in TypeScript across backend and frontend environments, including Node.js (Nest, Express, Fastify), React (Next.js), Angular (Universal), Vue.js (Nuxt.js), and Svelte (SvelteKit). 
+On the backend, I leverage Python for Django, Flask, and FastAPI; Go for Fiber and gRPC microservices; Java for Spring Boot and Micronaut; Groovy for Grails; Ruby for Ruby on Rails; and PHP for Symfony.
 
 I am fluent in DevOps/Gitops practices, Docker/Kubernetes/OpenStack, Ceph, OpenTelemetry, IaC and all around it.
 I enjoy working with Terraform & Ansible in AWS and GCP environments.
