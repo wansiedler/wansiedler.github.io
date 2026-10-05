@@ -16,12 +16,14 @@ social: true # includes social icons at the bottom of the page
 
 ---
 
+**Ex-CTO and hands-on engineer with 20+ years in software. Kubernetes-certified (CKA, CKAD, CKS), building high-load distributed systems for FinTech, AI and Robotics.**
+
 # What are my core skills? 🎯
 ✔ Distributed high-load with custom pipelining (in Go/Node/Python/PHP/Java/C++) in K8s clusters for FinTech/AI/Robotics \
 ✔ DBA/DBM for PostgreSQL, MySQL, Oracle \
-✔ Extensive experience in microservices/monoliths, APIs (RPC/GraphQL/REST/WebSockets), profiling&optimisation, Unit/regression/E2E-testing \
-✔ 10+ Years of managing Infrastructure as Code (Terraform/Ansible) within AWS/GCP \
-✔ Mentorship/Codereview/Techleading/Projectmanagement \
+✔ Extensive experience in microservices/monoliths, APIs (RPC/GraphQL/REST/WebSockets), profiling & optimisation, unit/regression/E2E testing \
+✔ 10+ years of managing Infrastructure as Code (Terraform/Ansible) within AWS/GCP \
+✔ Mentorship, code review, tech leadership, project management \
 ✔ Adapting Agile/Scrum/Kanban for cross-functional teams \
 ✔ Experience in process transformation and architecture migration & SaaS solutions
 
@@ -34,7 +36,7 @@ I speak German, English, and Chinese, and have a strong command of data structur
 I am fluent in TypeScript across backend and frontend environments, including Node.js (Nest, Express, Fastify), React (Next.js), Angular (Universal), Vue.js (Nuxt.js), and Svelte (SvelteKit). 
 On the backend, I leverage Python for Django, Flask, and FastAPI; Go for Fiber and gRPC microservices; Java for Spring Boot and Micronaut; Groovy for Grails; Ruby for Ruby on Rails; and PHP for Symfony.
 
-I am fluent in DevOps/Gitops practices, Docker/Kubernetes/OpenStack, Ceph, OpenTelemetry, IaC and all around it.
+I am fluent in DevOps/GitOps practices, Docker/Kubernetes/OpenStack, Ceph, OpenTelemetry, IaC and all around it.
 I enjoy working with Terraform & Ansible in AWS and GCP environments.
 
 ---
@@ -86,8 +88,7 @@ and lead teams to do the same.
 
 - Oracle Certified Associate Java SE 8 Programmer
 
-- AWS Certified Developer - Professional"
-
+- AWS Certified Developer - Professional
 
 - Microsoft Azure Fundamentals AZ-900
 
@@ -158,7 +159,6 @@ and lead teams to do the same.
 ![Celery](https://img.shields.io/badge/celery-%2337814A.svg?&style=for-the-badge&logo=celery&logoColor=white)
 
 ![Rust](https://img.shields.io/badge/rust-%23000000.svg?&style=for-the-badge&logo=rust&logoColor=white)
-![Solidity](https://img.shields.io/badge/solidity-%23363636.svg?&style=for-the-badge&logo=solidity&logoColor=white)
 ![OpenZeppelin](https://img.shields.io/badge/OpenZeppelin-4E5EE4?logo=OpenZeppelin&logoColor=fff&style=for-the-badge)
 
 ![Haskell](https://img.shields.io/badge/Haskell-%235D4F85.svg?&style=for-the-badge&logo=haskell&logoColor=white)
@@ -183,9 +183,6 @@ and lead teams to do the same.
   <img alt="Views" src="https://komarev.com/ghpvc/?username=wansiedler&style=flat-square&color=ff69b4&label=Views" />
 </p>
 
-<img class="repo-img-light" alt="wansiedler" style="margin: 0 auto;max-width: 75%;" src="https://leetcard.jacoblin.cool/wansiedler?theme=light&font=Inter&ext=activity">
-<img class="repo-img-dark" alt="wansiedler" style="margin: 0 auto;max-width: 75%;" src="https://leetcard.jacoblin.cool/wansiedler?theme=dark&font=Inter&ext=activity">
-<br/>
 <img class="repo-img-light" alt="wansiedler" style="margin: 0 auto;max-width: 75%;" src="https://github-trophies.vercel.app/?username=wansiedler&theme=flat&locale=en&margin-w=5&margin-h=5&no-bg=true&column=4">
 <img class="repo-img-dark" alt="wansiedler" style="margin: 0 auto;max-width: 75%;" src="https://github-trophies.vercel.app/?username=wansiedler&theme=gitdimmed&locale=en&margin-w=5&margin-h=5&no-bg=true&column=4">
 <br/>
