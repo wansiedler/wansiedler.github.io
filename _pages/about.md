@@ -81,14 +81,13 @@ and lead teams to do the same.
 - OpenJS Node.js Application Developer (JSNAD)
 - OpenJS Node.js Services Developer (JSNSD)
 
-- Certified Professional in Python Programming 2 (PCPP2™) in progress
 - Certified Professional in Python Programming 1 (PCPP1™)
 - Certified Associate in Python Programming (PCAP™)
 - Certified Entry-Level Python Programmer (PCEP™)
 
 - Oracle Certified Associate Java SE 8 Programmer
 
-- AWS Certified Developer - Professional
+- AWS Certified DevOps Engineer – Professional
 
 - Microsoft Azure Fundamentals AZ-900
 
@@ -193,6 +192,8 @@ and lead teams to do the same.
 <img class="repo-img-dark" alt="wansiedler" style="margin: 0 auto;max-width: 75%;" src="https://streak-stats.demolab.com/?user=wansiedler&background=transparent&hide_border=true&theme=dark">
 
 ---
+
+# Support 🙏
 
 <div style="margin: 0 auto;text-align: justify; display: flex; flex-direction: column; align-items: center; align-content: flex-start; justify-content: left">
 <div>All currencies in the following chains are accepted:</div>
