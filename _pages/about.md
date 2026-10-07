@@ -43,8 +43,8 @@ I enjoy working with Terraform & Ansible in AWS and GCP environments.
 
 ### Who am I?
 
-I am a developer, technical consultant and ex-CTO with over 20 years of progressively challenging technical successes
-in diversified, cutting-edge technologies with demonstrated and proven ability to organize, train and lead cross-functional teams in achieving superior results, making me a team player and a leader with a strong sense of responsibility.
+I am a developer, technical consultant and ex-CTO who has spent 20+ years building systems that have to stay up under real load.
+I hire, train and lead cross-functional teams, and I still write production code myself.
 
 I code everything that can be scripted, compiled or used as a microservice or a blockchain smart contract
 and lead teams to do the same.
@@ -53,18 +53,7 @@ and lead teams to do the same.
 
 #### I ❤️:
 
-- My Family and Team
-- TypeScript with Node.js Express/Nest.js/fastify with Sequelize/Prisma/TypeORM/Drizzle,
-- Ethers.js with React(Solid.js, Redux, Zustand)+Next/Angular (NgRx)/Vue.js(Vuex, Pinia)/Quasar, TDD (with jest, cypress, playwright)
-- Python with FastAPI/Django/Flask, Celery, and SQLAlchemy
-- Golang with Gin/Echo/Fiber, PHP in Symfony/Laravel/Zend
-- Apache Hadoop/Apache Kafka, Redis/RabbitMQ, PostgreSQL/MySQL, ElasticSearch, MongoDB, S3, Firebase, GraphQL
-- Kubernetes: Advanced cluster design, monitoring and troubleshooting
-- DevOps/GitOps Tools: ArgoCD, Flux and automated deployment strategies
-- Infrastructure as Code: Crossplane, Terraform, AWS CDK and CloudFormation with Docker
-- CI/CD Expertise: GitLab CI/CD, Jenkins and GitLab/GitHub Actions
-- Cloud Platforms: Extensive experience with AWS, GCP and Azure
-- Monitoring: Hands-on with Prometheus, Grafana and ELK Stack
+My family and team, TypeScript, Go and Python, well-run Kubernetes clusters and GitOps pipelines that just work.
 
 ---
 
