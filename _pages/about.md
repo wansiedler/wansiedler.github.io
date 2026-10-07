@@ -43,8 +43,8 @@ I enjoy working with Terraform & Ansible in AWS and GCP environments.
 
 ### Who am I?
 
-I am a developer, technical consultant and ex-CTO with over 20 years of progressively challenging technical successes
-in diversified, cutting-edge technologies with demonstrated and proven ability to organize, train and lead cross-functional teams in achieving superior results, making me a team player and a leader with a strong sense of responsibility.
+I am a developer, technical consultant and ex-CTO who has spent 20+ years building systems that have to stay up under real load.
+I hire, train and lead cross-functional teams, and I still write production code myself.
 
 I code everything that can be scripted, compiled or used as a microservice or a blockchain smart contract
 and lead teams to do the same.
