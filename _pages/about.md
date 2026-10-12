@@ -193,16 +193,6 @@ and lead teams to do the same.
 
 ---
 
-# Support 🙏
-
-<div style="margin: 0 auto;text-align: justify; display: flex; flex-direction: column; align-items: center; align-content: flex-start; justify-content: left">
-<div>All currencies in the following chains are accepted:</div>
-<div style="text-wrap: wrap;max-width:75%;word-break: break-all;overflow-wrap: break-word;">BTC bc1qcpjqk9ymzfpswekzq6huxmcxmyf8td5xyrkcmh</div>
-<div style="text-wrap: wrap;max-width:75%;word-break: break-all;overflow-wrap: break-word;">ETH/BSC/BASE/POLYGON 0xbdf6147755e03e8Ea409E6808bA66529A057F670</div>
-<div style="text-wrap: wrap;max-width:75%;word-break: break-all;overflow-wrap: break-word;">SOL 7haHrLysBuFQNmLNxfnmjTVw4mZzcHEp5e1X5YpnY5PL</div>
-</div>
-
----
 
 [//]: # '<img alt="Never Gonna Give You Up" src="https://github.com/poteto/poteto/blob/master/nice.gif?raw=true" style="max-width:15%;display: block;margin: 0 auto">!'
 
